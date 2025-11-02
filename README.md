@@ -18,7 +18,8 @@ Open [`detectable_apps.txt`](detectable_apps.txt) and use `Ctrl + F` (or `Cmd + 
 
 ### Example:
 ```
-Application name
-  📂 Folder (if applicable)
-  💾 Exe
+App Name
+  📂 folder
+    💾 file1.exe
+  💾 standalone.exe
 ```
