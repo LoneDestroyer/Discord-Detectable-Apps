@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2025-11-02 17:55:56
-Total Applications: 10,286
-Total Executables: 11,054
+Last Updated: 2025-11-14 22:21:57
+Total Applications: 10,317
+Total Executables: 11,076
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -1634,9 +1634,8 @@ Aooni
     💾 aooni.exe
 
 APB Reloaded
-  📂 2012
-    💾 vcredist_x86.exe
   💾 apb.exe
+  💾 apblauncher.exe
 
 APE OUT
   📂 ape out
@@ -2072,8 +2071,6 @@ Assassin's Creed Mirage
     💾 acmirage.exe
 
 Assassin's Creed Odyssey
-  📂 vcredist
-    💾 vc_redist.x64.exe
   💾 acodyssey.exe
 
 Assassin's Creed Origins
@@ -2134,6 +2131,10 @@ Assetto Corsa Competizione
 Assetto Corsa EVO
   📂 assetto corsa evo
     💾 assettocorsaevo.exe
+
+Assetto Corsa Rally
+  📂 win64
+    💾 acr.exe
 
 Astebreed
   💾 astebreed.exe
@@ -2803,8 +2804,6 @@ Batman: Arkham Asylum GOTY Edition
   💾 shippingpc-bmgame.exe
 
 Batman: Arkham City GOTY
-  📂 setup
-    💾 vcredist_x86.exe
   💾 batmanac.exe
 
 Batman: Arkham Knight
@@ -2946,6 +2945,7 @@ Battlefield 4
 Battlefield 6
   📂 battlefield 6
     💾 bf6.exe
+  💾 eaanticheat.gameservicelauncer.exe
 
 Battlefield: Bad Company 2
   📂 punkbuster
@@ -3467,12 +3467,6 @@ Black One Blood Brothers
     💾 bobb-win64-shipping.exe
 
 Black Ops 6
-  📂 _retail_
-    💾 cod.exe
-  📂 call of duty hq
-    💾 cod.exe
-  📂 content
-    💾 cod.exe
   📂 sp24
     💾 sp24-cod.exe
 
@@ -4508,6 +4502,10 @@ Bulanci
   📂 bulanci
     💾 bulanci.exe
 
+Bulb Boy
+  📂 bulb boy
+    💾 bulbboy.exe
+
 Bullet Heaven 2
   📂 bullet heaven 2
     💾 bullet heaven 2.exe
@@ -4800,7 +4798,9 @@ Call of Duty: World at War
   💾 codwawmp.exe
 
 Call of Duty® Black Ops 7
+  💾 cod.exe
   💾 cod25-cod.exe
+  💾 sp25-cod.exe
 
 Call of Duty®: Black Ops Cold War
   💾 blackopscoldwar.exe
@@ -5074,7 +5074,7 @@ Cargo Commander
   💾 cargocommander.app
   💾 cargocommander.exe
 
-Caribbean Crashers
+Caribbean Legend
   📂 caribbean crashers
     💾 cc.exe
 
@@ -6250,6 +6250,10 @@ Coloring Game: Little City
 
 Coloring Pixels
   💾 coloringpixels.exe
+
+Coloring Voxels
+  📂 coloring voxels
+    💾 coloringvoxels.exe
 
 Colt Canyon
   📂 colt canyon
@@ -7483,6 +7487,10 @@ Dark Swords
   📂 darkswords
     💾 darkswords.exe
 
+Darkenstein 3D
+  📂 darkenstein 3d
+    💾 darkenstein3d.exe
+
 DARKEST DAYS
   📂 win64
     💾 projectnow-win64-shipping.exe
@@ -7500,6 +7508,10 @@ Darkest Hour: A Hearts of Iron Game
 Darksburg
   📂 darksburg
     💾 darksburg.exe
+
+Darksiders
+  📂 darksiders
+    💾 dsinstaller.exe
 
 Darksiders Genesis
   📂 win64
@@ -8275,6 +8287,10 @@ Desert Bus VR
 Desert Stalker
   📂 desert stalker
     💾 desertstalker.exe
+
+Desktop Defender
+  📂 desktop defender
+    💾 desktop defender.exe
 
 Desktop Dungeons
   📂 desktop dungeons
@@ -10849,6 +10865,10 @@ Europa Universalis IV
   💾 eu4.app
   💾 eu4.exe
 
+Europa Universalis V
+  📂 binaries
+    💾 eu5.exe
+
 European Ship Simulator
   📂 european ship simulator
     💾 ess.exe
@@ -12785,6 +12805,10 @@ FreshWomen - Season 1
   📂 freshwomen
     💾 freshwomen.exe
 
+FreshWomen - Season 2
+  📂 freshwomen - season 2
+    💾 freshwomen.exe
+
 Friday the 13th: Killer Puzzle
   📂 friday the 13th killer puzzle
     💾 f13.exe
@@ -13181,6 +13205,10 @@ GameMaker: Studio
 Gamer Girls [18+]: eSports SEX
   📂 gamer girls 2
     💾 gamer_girls_2.exe
+
+Gamer Stop Simulator : Prologue
+  📂 win64
+    💾 consolegame-win64-shipping.exe
 
 Gaming Cafe Simulator
   📂 win64
@@ -18435,8 +18463,6 @@ Last Evil
     💾 lastevil.exe
 
 Last Man Standing
-  📂 2013
-    💾 vcredist_x64.exe
   💾 lms.exe
 
 Last Oasis
@@ -18539,6 +18565,10 @@ Lead and Gold - Gangs of the Wild West
 Leaf Blower Revolution - Idle Game
   📂 leaf blower revolution
     💾 game.exe
+
+Leaf it Alone
+  📂 leaf it alone
+    💾 leaf it alone.exe
 
 Leafling Online
   📂 leafling online
@@ -21520,6 +21550,10 @@ Moons of Madness
   📂 win64
     💾 moonsofmadness-win64-shipping.exe
 
+Moonscars
+  📂 moonscars
+    💾 moonscars.exe
+
 Moonstone Island
   📂 moonstone island
     💾 moonstone island.exe
@@ -22224,6 +22258,10 @@ NARUTO: Ultimate Ninja STORM
 NASCAR '15 Victory Edition
   📂 bin
     💾 nascar15.exe
+
+NASCAR 25
+  📂 win64
+    💾 nascar25_steam-win64-shipping.exe
 
 NASCAR Heat 3
   📂 nascar heat 3
@@ -23569,6 +23607,10 @@ OneBit Adventure
   📂 onebit adventure
     💾 onebit adventure.exe
 
+OneShift
+  📂 oneshift
+    💾 oneshift.exe
+
 OneShot
   💾 oneshot.exe
 
@@ -23738,7 +23780,6 @@ Orcs Must Die!
 Orcs Must Die! 2
   📂 installer
     💾 vcredist_x86.exe
-  💾 orcsmustdie2.exe
 
 Orcs Must Die! 3
   📂 win64
@@ -24128,6 +24169,10 @@ Painkiller Hell & Damnation
   📂 win32
     💾 pkhdgame-win32-shipping.exe
 
+Painkiller Overdose
+  📂 bin
+    💾 overdose.exe
+
 Painkiller: Black Edition
   💾 painkiller.exe
 
@@ -24356,6 +24401,10 @@ Party Panic
 Party Quiz
   📂 party quiz
     💾 party quiz.exe
+
+Passant: A Chess Roguelike
+  📂 passant a chess roguelike
+    💾 passant.exe
 
 Passed Out: Prologue
   📂 win64
@@ -28732,6 +28781,10 @@ Seven: Enhanced Edition
   📂 win64
     💾 seven-win64-shipping.exe
 
+SEVERANCE
+  📂 severance
+    💾 severance.exe
+
 Sevgilim Olur musun ?
   📂 sevgilim
     💾 sevgilim.exe
@@ -28823,6 +28876,10 @@ Shadow Corridor
 Shadow Corridor 2 雨ノ四葩
   📂 win64
     💾 shadowcorridor2-win64-shipping.exe
+
+Shadow Fight Arena
+  📂 shadow fight arena
+    💾 sfa.exe
 
 Shadow Gambit: The Cursed Crew
   📂 shadow gambit the cursed crew
@@ -29339,6 +29396,10 @@ SIGame
   📂 sigame
     💾 sigame.exe
 
+Sigils of Elohim
+  📂 sigils of elohim
+    💾 sigils.exe
+
 Sigma Theory
   📂 sigmatheory
     💾 sigma.exe
@@ -29687,6 +29748,10 @@ Slapshot
 Slapshot: Rebound
   📂 slapshotrebound
     💾 slapshot.exe
+
+Slash It 2
+  📂 slash it 2
+    💾 slashit2.exe
 
 Slasher's Keep
   📂 slasher's keep
@@ -30182,6 +30247,10 @@ Sonic Origins
 Sonic Racing: CrossWorlds
   📂 win64
     💾 sonicracingcrossworldssteam.exe
+
+Sonic Rumble
+  📂 sonicrumble
+    💾 sonicrumble.exe
 
 Sonic Superstars
   📂 sonic superstars
@@ -31966,7 +32035,7 @@ Super Fancy Pants Adventure
   📂 super fancy pants adventure
     💾 sfpa.exe
 
-Super Fantasy Kingdom Demo
+Super Fantasy Kingdom
   📂 super fantasy kingdom demo
     💾 super fantasy kingdom.exe
 
@@ -32078,6 +32147,10 @@ Super Treasure Arena
 Super Woden GP 2
   📂 super woden gp 2
     💾 super woden gp 2.exe
+
+Superball
+  📂 superball
+    💾 superball.exe
 
 Superbrothers: Sword & Sworcery EP
   💾 swordandsworcery_pc.exe
@@ -32304,6 +32377,10 @@ Survived By
 
 Surviving Mars
   💾 marssteam.exe
+
+Surviving Mars: Relaunched
+  📂 project spark
+    💾 mars.exe
 
 Surviving the Abyss
   📂 surviving the abyss
@@ -32887,6 +32964,10 @@ Tattletail
 Taur
   📂 taur
     💾 taur.exe
+
+Tavern Keeper
+  📂 tavern keeper
+    💾 tavernkeeper.exe
 
 Tavern Manager Simulator
   📂 tavern manager simulator
@@ -34060,6 +34141,10 @@ The Last Campfire
 The Last Campfire Demo
   📂 the last campfire demo
     💾 the last campfire.exe
+
+The Last Caretaker
+  📂 win64
+    💾 voyagesteam-win64-shipping.exe
 
 The Last Door - Collector's Edition
   📂 the last door ce
@@ -35701,19 +35786,11 @@ Total War: PHARAOH DYNASTIES
 Total War: Rome 2
   💾 rome2.exe
 
-Total War: ROME II - Emperor Edition
-  📂 redist
-    💾 vcredist_x86-80-sp1.exe
-
 Total War: ROME REMASTERED
   📂 total war rome remastered
     💾 total war rome remastered.exe
 
 Total War: SHOGUN 2
-  📂 benchmarks
-    💾 benchmark_output.exe
-  📂 redist
-    💾 vcredist_x86-sp1.exe
   📂 total war shogun 2
     💾 modmanager.exe
   💾 shogun2.exe
@@ -36056,6 +36133,10 @@ Trailmakers
   📂 trailmakers
     💾 trailmakers.exe
 
+Trails in the Sky 1st Chapter
+  📂 trails in the sky 1st chapter
+    💾 sora_1st.exe
+
 Train Driver 2
   📂 train driver 2
     💾 traindriver2.exe
@@ -36073,9 +36154,6 @@ Train Sim World® 4
     💾 trainsimworld.exe
 
 Train Simulator
-  📂 install
-    💾 physx_9.10.0513_systemsoftware.exe
-    💾 vcredist_x86.exe
   📂 railworks
     💾 utilities.exe
   💾 railworks.exe
@@ -36706,6 +36784,10 @@ Ultimate Sudoku Collection
 Ultimate Tag
   📂 ultimate tag
     💾 ultimate tag.exe
+
+Ultimate Theater Simulator
+  📂 ultimatetheatersimulator
+    💾 ultimatetheatersimulator.exe
 
 Ultimate Tic-Tac-Toe
   📂 ultimate tic-tac-toe
@@ -37413,11 +37495,8 @@ Victoria I
   💾 victoria.exe
 
 Victoria II
-  📂 movies
-    💾 binkplay.exe
   📂 victoria 2
     💾 v2game.exe
-    💾 vcredist_x86.exe
   💾 victoria2.exe
 
 Victory: The Age of Racing
@@ -38344,6 +38423,10 @@ Welcome To The Backrooms
   📂 welcome to the backrooms
     💾 welcome to the backrooms.exe
 
+Welcome To The Dark Place
+  📂 welcome to the dark place
+    💾 welcome to the dark place.exe
+
 Welcome to the Game
   📂 welcome to the game
     💾 wttg.exe
@@ -38463,6 +38546,10 @@ Where the Water Tastes Like Wine
   📂 where the water tastes like wine
     💾 wtwtlw_64.exe
 
+Where Winds Meet
+  💾 where winds meet.exe
+  💾 wwm.exe
+
 while True: learn()
   📂 wtl
     💾 wtl.exe
@@ -38478,6 +38565,10 @@ Whimsical Artefacts
 Whirligig
   📂 whirligig
     💾 whirligig.exe
+
+Whiskerwood
+  📂 win64
+    💾 whiskerwood-win64-shipping.exe
 
 Whisper Mountain Outbreak
   📂 whisper mountain outbreak
@@ -38727,6 +38818,10 @@ WitchSpring R
   📂 witchspring r
     💾 witchspringr.exe
 
+Witchy Business
+  📂 witchy business
+    💾 witchy business.exe
+
 Witchy Life Story
   📂 a witchy life story
     💾 witchy life story.exe
@@ -38821,6 +38916,10 @@ Wolfenstein: The Old Blood
   💾 wolfoldblood_x32.exe
   💾 wolfoldblood_x64.exe
   💾 wolfoldblood_x86.exe
+
+Wolfenstein: Youngblood
+  📂 wolfenstein youngblood
+    💾 youngblood_x64vk.exe
 
 Wolfpack
   📂 wolfpack
@@ -40515,6 +40614,10 @@ Zwift
 近畿霊務局
   📂 ksab
     💾 kinki spiritual affairs bureau.exe
+
+逆水寒
+  📂 game
+    💾 nshm.exe
 
 違う冬のぼくら
   📂 bokura_win
