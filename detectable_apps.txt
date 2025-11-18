@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2025-11-14 22:21:57
-Total Applications: 10,317
-Total Executables: 11,076
+Last Updated: 2025-11-18 19:37:13
+Total Applications: 10,329
+Total Executables: 11,089
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -6298,6 +6298,11 @@ Come with Me
 Comedy Night
   💾 comedy night.exe
 
+Comet
+  📂 application
+    💾 comet.exe
+  💾 comet.app
+
 Coming Out on Top
   📂 windows-i686
     💾 coming-out-on-top.exe
@@ -11754,6 +11759,10 @@ FEMINAZI: The Triggering
   📂 feminazi the triggering
     💾 feminazi.exe
 
+Femtazio
+  📂 femtazio
+    💾 femtazio.exe
+
 Fera: The Sundered Tribes
   📂 win64
     💾 fera-win64-shipping.exe
@@ -11773,6 +11782,10 @@ Fetish Locator Week Three
 Fetish Locator Week Two
   📂 fetish locator week two
     💾 fetishlocatorweek2.exe
+
+Fever Meme
+  📂 win64
+    💾 thetrollgame-win64-shipping.exe
 
 FEZ
   💾 fez.exe
@@ -13370,6 +13383,10 @@ GemCraft - Chasing Shadows
 GemCraft - Frostborn Wrath
   📂 gemcraft frostborn wrath
     💾 gemcraft frostborn wrath.exe
+
+Gemporium
+  📂 gemporium
+    💾 gemporium.exe
 
 Gems of War
   📂 gems of war
@@ -19145,6 +19162,10 @@ Littlewood
   📂 littlewood
     💾 littlewood.exe
 
+Live Wallpaper
+  📂 live wallpaper
+    💾 wallpaper.exe
+
 Live Wallpaper Master
   📂 dp wallpaper master
     💾 configdlg.exe
@@ -20174,6 +20195,10 @@ Mash Box
 Mashinky
   📂 mashinky
     💾 mashinky.exe
+
+Masks Of Deception
+  📂 masks of deception
+    💾 masks of deception.exe
 
 Mass Effect™
   💾 masseffect.exe
@@ -24078,6 +24103,10 @@ Overstep
 
 Overwatch 2
   💾 overwatch.exe
+
+OVR Dynamic Resolution
+  📂 ovr dynamic resolution
+    💾 ovr-dynamic-resolution.exe
 
 OVRdrop
   📂 ovrdrop
@@ -30449,6 +30478,10 @@ Space Rangers HD: A War Apart
   📂 space rangers hd a war apart
     💾 rangers.exe
 
+Space Run
+  📂 space run
+    💾 ospacegame.exe
+
 Space Trash Scavenger
   📂 space trash scavenger
     💾 spacetrashscavenger.exe
@@ -31409,6 +31442,10 @@ Sticky Business
 Sticky Business Demo
   📂 sticky business demo
     💾 stickybusiness.exe
+
+Still There
+  📂 still there
+    💾 still there.exe
 
 Still Wakes the Deep
   📂 win64
@@ -34236,6 +34273,10 @@ The Legend of Heroes: Trails in the Sky SC
 The Legend of Heroes: Trails in the Sky the 3rd
   📂 trails in the sky the 3rd
     💾 ed6_win3_dx9.exe
+
+The Legend of Heroes: Trails into Reverie
+  📂 win64
+    💾 hnk.exe
 
 The Legend of Heroes: Trails of Cold Steel
   📂 trails of cold steel
@@ -37859,6 +37900,10 @@ Wall World
   📂 wall world
     💾 wallworld.exe
 
+Wall World 2
+  📂 wall world 2
+    💾 wallworld2.exe
+
 Wallpaper Play
   📂 wallpaper_play
     💾 wallpaperplay.exe
@@ -39305,6 +39350,10 @@ X-Angels
 X-COM: UFO Defense
   📂 xcom ufo defense
     💾 dosbox.exe
+
+X-Mode
+  📂 x-mode
+    💾 gameclient.exe
 
 X-Morph: Defense
   📂 bin
