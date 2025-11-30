@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2025-11-18 19:37:13
-Total Applications: 10,329
-Total Executables: 11,089
+Last Updated: 2025-11-30 01:38:36
+Total Applications: 10,352
+Total Executables: 11,111
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -870,6 +870,10 @@ Age of Mythology: Retold
   📂 age of mythology retold
     💾 aomrt_s.exe
 
+Age of War
+  📂 windows
+    💾 game.exe
+
 Age of Water
   📂 age of water
     💾 aow.exe
@@ -1532,6 +1536,10 @@ Anno 1404 - History Edition
 Anno 1404: Venice
   📂 anno 1404
     💾 addon.exe
+
+Anno 1701 - History Edition
+  📂 anno 1701 - history edition
+    💾 anno1701.exe
 
 Anno 1800
   📂 win64
@@ -2311,6 +2319,10 @@ Aura Kingdom
   📂 aura kingdom
     💾 _launcher.exe
     💾 launcher.exe
+
+AURA: Hentai Cards
+  📂 aura
+    💾 aurahentaicards.exe
 
 Aurelia
   📂 aurelia
@@ -6298,11 +6310,6 @@ Come with Me
 Comedy Night
   💾 comedy night.exe
 
-Comet
-  📂 application
-    💾 comet.exe
-  💾 comet.app
-
 Coming Out on Top
   📂 windows-i686
     💾 coming-out-on-top.exe
@@ -6450,6 +6457,10 @@ Concrete Jungle
 Condemned: Criminal Origins
   📂 condemned criminal origins
     💾 condemned.exe
+
+Condo Desires
+  📂 condo desires
+    💾 condodesires.exe
 
 Confess My Love
   📂 confessmylove
@@ -11022,6 +11033,10 @@ Executive Assault 2
   📂 executive assault 2
     💾 executiveassault2.exe
 
+Eximius: Seize the Frontline
+  📂 win64
+    💾 projectcombine-win64-shipping.exe
+
 Exit the Gungeon
   📂 exit the gungeon
     💾 xtg.exe
@@ -11310,6 +11325,10 @@ Fallen Aces Demo
 Fallen Earth
   📂 fallen earth f2p
     💾 feupdater.exe
+
+Fallen Elf Freya
+  📂 fallen elf freya
+    💾 fallen elf freya.exe
 
 Fallen Enchantress: Legendary Heroes
   📂 fe legendary heroes
@@ -15421,6 +15440,10 @@ Her Story
   📂 her story
     💾 herstory.exe
 
+HER TREES : THE PUZZLE HOUSE
+  📂 hertrees2win
+    💾 hertrees-thepuzzlehouse.exe
+
 Here Comes Niko!
   📂 here comes niko
     💾 here comes niko!.exe
@@ -16735,6 +16758,10 @@ Incline
   📂 incline
     💾 incline.exe
 
+Incredicer
+  📂 incredicer
+    💾 incredicer.exe
+
 Increlution
   📂 increlution
     💾 increlution.exe
@@ -17280,6 +17307,10 @@ It's Only Money
 Ithya: Magic Studies
   📂 ithya magic studies
     💾 magic studies.exe
+
+iTop Easy Desktop for Steam
+  📂 itop easy desktop
+    💾 ieasydesk.exe
 
 IvAc
   💾 ivac.exe
@@ -20003,6 +20034,10 @@ MakeRoom
   📂 makeroom
     💾 makeroom.exe
 
+Maktala
+  📂 release
+    💾 maktala.exe
+
 Mall Simulator 2025: Prologue
   📂 mall simulator 2025 prologue
     💾 mall simulator 2025 prologue.exe
@@ -20254,6 +20289,10 @@ Masterplan Tycoon: Foundations
 
 Masters of Anima
   💾 masters of anima.exe
+
+MateEngine
+  📂 mateengine
+    💾 mateenginex.exe
 
 Material Girl
   📂 material girl
@@ -21087,6 +21126,10 @@ Mini World: Block Art
   📂 mini world block art
     💾 minigameapp.exe
 
+Minigame Madness Lite
+  📂 win64
+    💾 minigamemadness-win64-shipping.exe
+
 MiniGolf Mania
   📂 minigolf mania
     💾 minigolfmania.exe
@@ -21567,6 +21610,10 @@ Moonglow Bay
 Moonlighter
   💾 moonlighter.exe
 
+Moonlighter 2: The Endless Vault
+  📂 moonlighter 2 the endless vault
+    💾 moonlighter 2 the endless vault.exe
+
 Moonring
   📂 moonring
     💾 moonring.exe
@@ -21834,6 +21881,10 @@ MTGArena
 
 MU Legend
   💾 mulegend.exe
+
+MudBlood Prologue
+  📂 win64
+    💾 mudblood-win64-shipping.exe
 
 Mudborne
   📂 mudborne
@@ -23661,6 +23712,10 @@ Onimusha: Warlords
 ONINAKI Demo
   📂 oninaki demo
     💾 oninaki demo.exe
+
+Onirism
+  📂 onirism
+    💾 onirism.exe
 
 Only Climb: Better Together
   📂 win64
@@ -29409,6 +29464,10 @@ Sid Meier's Starships
   📂 sid meier's starships
     💾 starships64.exe
 
+Side Effects
+  📂 side effects
+    💾 side effects.exe
+
 Siege Survival: Gloria Victis
   📂 gloria victis siege
     💾 siegesurvival.exe
@@ -30190,6 +30249,10 @@ Solitaire Forever II
 Solium Infernum
   📂 solium infernum
     💾 soliuminfernum.exe
+
+Solo Leveling: ARISE OVERDRIVE
+  📂 solo leveling
+    💾 solo_leveling_arise_overdrive.exe
 
 Soma
   💾 soma.exe
@@ -31484,6 +31547,10 @@ Storage Hustle
 Store Wars: Prologue - Multiplayer Shop Simulator
   📂 win64
     💾 storewars-win64-shipping.exe
+
+Storebound
+  📂 win64
+    💾 emberssauce-win64-shipping.exe
 
 Stories Untold
   📂 stories untold
@@ -33061,6 +33128,10 @@ Team Fortress 2
   💾 >hl2_osx
   💾 hl2tf.exe
 
+Team Fortress 2: Gold Rush
+  📂 team fortress 2 gold rush
+    💾 tf_goldrush_win64.exe
+
 Team Sonic Racing™
   📂 team sonic racing
     💾 gameapp_pcdx11_x64final.exe
@@ -34261,6 +34332,10 @@ The Last Stand: Aftermath Demo
 The Legend of Bum-Bo
   📂 the legend of bum-bo
     💾 the legend of bum-bo.exe
+
+The Legend of Heroes: Trails from Zero
+  📂 the legend of heroes trails from zero
+    💾 zero.exe
 
 The Legend of Heroes: Trails in the Sky
   💾 ed6_win.exe
@@ -35759,6 +35834,10 @@ Torment: Tides of Numenera
 Tormented Souls
   📂 tormented souls
     💾 tormentedsouls.exe
+
+Tormented Souls 2
+  📂 win64
+    💾 tormentedsouls2-win64-shipping.exe
 
 Tormented Souls Demo
   📂 tormented souls demo
@@ -38156,6 +38235,10 @@ Warhammer Age of Sigmar: Realms of Ruin
   📂 warhammer age of sigmar - realms of ruin
     💾 warhammer age of sigmar - realms of ruin.exe
 
+Warhammer Age of Sigmar: Storm Ground
+  📂 win64
+    💾 stormground.exe
+
 Warhammer Quest
   📂 warhammer quest
     💾 warhammerquest.exe
@@ -38423,6 +38506,10 @@ WEBFISHING
 Wedding Witch
   📂 wedding witch
     💾 wedding witch.exe
+
+Wednesdays
+  📂 wednesdays
+    💾 wednesdays.exe
 
 Wee Tanks!
   📂 wee tanks
@@ -39679,6 +39766,10 @@ Yuppie Psycho
 YUR
   📂 yur
     💾 yur.fit.windows.service.exe
+
+Z.A.T.O. // I Love the World and Everything In It
+  📂 z.a.t.o.  i love the world and everything in it
+    💾 zato.exe
 
 Zaccaria Pinball
   📂 zaccaria pinball
