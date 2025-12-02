@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2025-11-30 01:38:36
-Total Applications: 10,352
-Total Executables: 11,111
+Last Updated: 2025-12-02 18:15:32
+Total Applications: 10,358
+Total Executables: 11,117
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -1225,6 +1225,10 @@ Amanda the Adventurer
 Amanda the Adventurer 2
   📂 amanda the adventurer 2
     💾 amanda the adventurer 2.exe
+
+Amanda the Adventurer 3
+  📂 amanda the adventurer 3
+    💾 amanda the adventurer 3.exe
 
 Amanda the Adventurer Demo
   📂 amanda the adventurer demo
@@ -9347,6 +9351,10 @@ Dragon Sin
   📂 dragonsin
     💾 dragonsin.exe
 
+Dragon Sleuth Brittany
+  📂 dragon sleuth brittany
+    💾 dragonsleuthbrittany.exe
+
 Dragon's Dogma 2
   📂 dragons dogma 2
     💾 dd2.exe
@@ -13100,6 +13108,10 @@ FUSER
 Futa Fix Dick Dine and Dash
   📂 futa fix dick dine and dash
     💾 game.exe
+
+FUTA RUNNER: Big Dick Edition
+  📂 win64
+    💾 futarunner-win64-shipping.exe
 
 Futanari di Funghi
   📂 futanari di funghi
@@ -24588,6 +24600,10 @@ Patrician III
   📂 patrician iii
     💾 p3setup.exe
 
+Patrician IV: Steam Special Edition
+  📂 patrician iv
+    💾 patrician4.exe
+
 Patrick's Parabox
   📂 patrick's parabox
     💾 patrick's parabox.exe
@@ -31566,6 +31582,9 @@ STORM AREA 51: AYY LMAO EDITION
 Storm Chasers
   📂 storm chasers
     💾 storm chasers.exe
+
+Storm Lancers
+  💾 stormheartsteam-win64-shipping.exe
 
 Storm Striker
   📂 win64
@@ -39857,6 +39876,10 @@ Zero-K
 ZeroRanger
   📂 zeroranger
     💾 zeroranger.exe
+
+Zerowake GATES
+  📂 zerowake gates
+    💾 zerowakegates.exe
 
 Zet Zillions
   📂 zet zillions
