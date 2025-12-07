@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2025-12-02 18:15:32
-Total Applications: 10,358
-Total Executables: 11,117
+Last Updated: 2025-12-07 01:19:23
+Total Applications: 10,365
+Total Executables: 11,126
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -3056,6 +3056,10 @@ Beacon Pines
   📂 beacon pines
     💾 beacon pines.exe
 
+Beam Eye Tracker
+  📂 beam eye tracker
+    💾 beameyetracker.exe
+
 BeamNG.drive
   💾 beamng.drive.exe
   💾 beamng.drive.x64.exe
@@ -4553,7 +4557,7 @@ Bum Simulator
   📂 win64
     💾 bumsim-win64-shipping.exe
 
-Bum: Revenge Prologue
+Bum: Revenge
   📂 win64
     💾 bumrevenge-win64-shipping.exe
 
@@ -5326,6 +5330,10 @@ Cataclysm: Dark Days Ahead
 Catan Universe
   📂 catan universe
     💾 catanuniverse.exe
+
+Catch Me If You Can
+  📂 catch me if you can
+    💾 catchmeifyoucan.exe
 
 CATGIRL LOVER
   📂 catgirl lover
@@ -9077,6 +9085,10 @@ DON'T LOOK AWAY
 DON'T SCREAM
   📂 win64
     💾 dont_scream-win64-shipping.exe
+
+DON'T SCREAM TOGETHER
+  📂 win64
+    💾 dontscreamtogether-win64-shipping.exe
 
 Don't Shout Together
   📂 win64
@@ -16403,6 +16415,9 @@ I MAED A GAM3 W1TH Z0MB1ES 1NIT!!!1
 I Wani Hug that Gator!
   📂 i wani hug that gator!
     💾 wanigame.exe
+
+I Wanna Be The Boshy
+  💾 i wanna be the boshy.exe
 
 I Wanna Maker
   📂 i wanna maker
@@ -25473,6 +25488,10 @@ Pools
   📂 pools
     💾 pools.exe
 
+POOSTALL Royale
+  📂 win64
+    💾 poostall_royale-win64-shipping.exe
+
 Poppy Playtime
   📂 win64
     💾 poppy_playtime-win64-shipping.exe
@@ -27731,6 +27750,10 @@ Rounds of Zombies
   📂 rounds of zombies
     💾 zombie.exe
 
+ROUTINE
+  📂 win64
+    💾 routine-win64-shipping.exe
+
 Rover Mechanic Simulator
   📂 rover mechanic simulator
     💾 rms.exe
@@ -29969,6 +29992,10 @@ SLUDGE LIFE: The BIG MUD Sessions
   📂 sludge life the big mud sessions
     💾 sludgelife2demo.exe
 
+Slut Squad
+  📂 slut squad
+    💾 slutsquad.exe
+
 Smack Studio
   📂 win64
     💾 smackstudio-win64-shipping.exe
@@ -30693,6 +30720,9 @@ Spellbreak
 Spellcaster University
   📂 spellcaster university
     💾 spellcaster university.exe
+
+Spellcasters Chronicles
+  💾 spellcasterschronicles.exe
 
 Spellcraft
   📂 run
@@ -31585,6 +31615,8 @@ Storm Chasers
 
 Storm Lancers
   💾 stormheartsteam-win64-shipping.exe
+  💾 stormlancersdemo.exe
+  💾 stormlancersdemosteam-win64-shipping.exe
 
 Storm Striker
   📂 win64
@@ -38354,9 +38386,6 @@ Warstone TD
 Wartales
   📂 wartales
     💾 wartales.exe
-
-WarThunder
-  💾 aces.exe
 
 Warudo
   📂 warudo
