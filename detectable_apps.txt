@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2025-12-07 01:19:23
-Total Applications: 10,365
-Total Executables: 11,126
+Last Updated: 2025-12-12 02:03:51
+Total Applications: 10,378
+Total Executables: 11,140
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -1310,6 +1310,10 @@ Amnesia: A Machine for Pigs
   📂 machine for pigs
     💾 aamfp.exe
 
+Amnesia: Memories
+  📂 amnesia
+    💾 amnesia.exe
+
 Amnesia: Rebirth
   📂 amnesia rebirth
     💾 amnesiarebirth.exe
@@ -1323,7 +1327,12 @@ Amnesia: The Bunker Demo
     💾 amnesiathebunker_demo_steam.exe
 
 Amnesia: The Dark Descent
-  💾 amnesia.exe
+  📂 amnesia the dark descent
+    💾 amnesia.exe
+
+Amnesia™: Memories
+  📂 amnesia
+    💾 amnesia.exe
 
 Among Ripples
   📂 amongripples
@@ -3280,6 +3289,10 @@ Between the Stars
 Between Two Castles - Digital Edition
   📂 win64
     💾 betweentwocastles-win64-shipping.exe
+
+Between Two Worlds
+  📂 between two worlds
+    💾 betweentwoworlds.exe
 
 Beyond Blue
   📂 beyond blue
@@ -6247,6 +6260,10 @@ Colony Survival
 Coloring Book
   📂 coloring book
     💾 coloring book for adults.exe
+
+Coloring Book for Kids
+  📂 coloring book for kids
+    💾 coloring book for kids.exe
 
 Coloring Game
   📂 coloring game
@@ -15710,6 +15727,10 @@ Higurashi When They Cry Hou - Ch.5 Meakashi
   📂 higurashi when they cry hou - ch. 5 meakashi
     💾 higurashiep05.exe
 
+Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi
+  📂 higurashi when they cry hou - ch.6 tsumihoroboshi
+    💾 higurashiep06.exe
+
 Himno
   📂 himno
     💾 himno.exe
@@ -16991,6 +17012,10 @@ Innocence Or Money - V 0.0.3
   📂 innocence or money - v 0.0.3
     💾 innocenceormoney.exe
 
+Innocence Or Money | Season 2 | Episode 1
+  📂 innocence or money  season 2
+    💾 innocenceormoneyseason2.exe
+
 Insaniquarium! Deluxe
   📂 insaniquarium deluxe
     💾 insaniquarium.exe
@@ -17415,6 +17440,10 @@ Jelly Brawl: Classic
 JellyCar Worlds
   📂 windows
     💾 jellycar worlds.exe
+
+Jerking Off In Class Simulator
+  📂 jerking off in class simulator
+    💾 jerking off in class simulator.exe
 
 Jerma's Big Adventure
   📂 jerma's big adventure
@@ -21447,6 +21476,10 @@ Mondealy: Day One
   📂 mondealy day one
     💾 mondealy.exe
 
+Money Simulator: Brokeville
+  📂 money simulator - brokeville
+    💾 money simulator - brokeville.exe
+
 Monkey Island™ 2 Special Edition: LeChuck's Revenge™
   💾 monkey2.exe
 
@@ -22199,6 +22232,14 @@ My Name is Mayo
 My Name is You and it's the only unusual thing in my life
   📂 mniy
     💾 nw.exe
+
+My sexy Neighbour 2
+  📂 my sexy neighbour 2
+    💾 my sexy neighbour 2.exe
+
+My Sexy Neighbour 2 | Prologue
+  📂 my sexy neighbour 2  prologue
+    💾 my sexy neighbour 2  prologue.exe
 
 My Singing Monsters
   📂 my singing monsters
@@ -25640,6 +25681,9 @@ Praey for the Gods
   📂 praey for the gods
     💾 praey for the gods.exe
 
+PRAGMATA
+  💾 pragmata_sketchbook.exe
+
 Predator: Hunting Grounds
   📂 win64
     💾 spacefish.exe
@@ -28983,6 +29027,10 @@ Sexy Mystic Survivors
 Sexy Space Airlines
   📂 sexyspaceairlines
     💾 sexyspaceairlines.exe
+
+ShaderGlass
+  📂 shaderglass
+    💾 shaderglass.exe
 
 Shadow Burglar
   📂 win64
@@ -37343,6 +37391,8 @@ Untrusted
     💾 untrusted.exe
 
 Unturned
+  📂 unturned
+    💾 unturned.exe
   💾 unturned.exe
   💾 unturned_be.exe
 
@@ -40468,6 +40518,10 @@ Zwift
 マジカルバトルアリーナNEXT・幻想郷空閃姫
   💾 mban_f.exe
   💾 mban_m.exe
+
+マモンキング
+  📂 mamonking
+    💾 mamon king.exe
 
 メタファー：リファンタジオ ～プロローグ体験版～
   📂 metaphor refantazio demo
