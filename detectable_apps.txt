@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2025-12-12 02:03:51
-Total Applications: 10,378
-Total Executables: 11,140
+Last Updated: 2025-12-16 18:13:13
+Total Applications: 10,384
+Total Executables: 11,146
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -1576,6 +1576,10 @@ Anomalous Coffee Machine
   📂 anomalous coffee machine
     💾 acm_windows.exe
 
+Anomalous Coffee Machine 2
+  📂 anomalous coffee machine 2
+    💾 acm2_windows.exe
+
 Anomaly Agent
   📂 anomaly agent
     💾 anomaly agent.exe
@@ -2412,6 +2416,10 @@ Avatar: Frontiers of Pandora
 Aven Colony
   📂 win64
     💾 avencolony-win64-shipping.exe
+
+Avernum: Escape From the Pit
+  📂 avernum escape from the pit
+    💾 avernum.exe
 
 Aviary Attorney
   📂 aviary attorney
@@ -6522,6 +6530,10 @@ CONSCRIPT
 Construct 2 Free
   📂 construct2-win64
     💾 construct2.exe
+
+Construction Crew (Demo)
+  📂 construction crew demo
+    💾 construction crew (demo).exe
 
 Construction Simulator
   📂 construction simulator
@@ -17666,6 +17678,10 @@ Just Die Already
 
 Just Fishing
   💾 justfishing.exe
+
+Just Ignore Them
+  📂 just ignore them
+    💾 justignorethem.exe
 
 Just In Time Incorporated
   📂 just in time
@@ -32264,6 +32280,10 @@ Super Life (RPG)
   📂 win64
     💾 superlife-win64-shipping.exe
 
+Super Lucky's Tale
+  📂 super lucky's tale
+    💾 slt.exe
+
 Super Meat Boy
   💾 supermeatboy.exe
 
@@ -35695,6 +35715,10 @@ TO THE TOP
 Toaster Arena
   📂 win64
     💾 toaster_reboot-win64-shipping.exe
+
+Toasterball
+  📂 toasterball
+    💾 toasterball.exe
 
 Tobacco Shop Simulator: Prologue
   📂 win64
