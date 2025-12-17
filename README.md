@@ -10,7 +10,9 @@
 
 <!-- About -->
 ## About
-A searchable list of applications that Discord detects for activity presence, including their folder (when applicable) and executable file.
+A searchable list of applications that Discord detects for activity presence, including their folder paths and executable files.
+
+**Sorting:** Applications are sorted alphabetically by name. Within each app, folders and executables are sorted by length (longest first)
 
 <!-- How to Use -->
 ## How to Use

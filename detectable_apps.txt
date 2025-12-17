@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2025-12-16 18:13:13
-Total Applications: 10,384
-Total Executables: 11,146
+Last Updated: 2025-12-17 01:01:30
+Total Applications: 10,385
+Total Executables: 11,147
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -269,8 +269,8 @@ Repository: https://github.com/LoneDestroyer/Discord-Detectable-Apps
     💾 7 billion humans.exe
 
 7 Days to Die
-  💾 7daystodie.exe
   💾 7daystodie_eac.exe
+  💾 7daystodie.exe
 
 7 Days to End with You
   📂 7 days to end with you
@@ -810,8 +810,8 @@ Age of Advent
     💾 ageofadvent.exe
 
 Age of Conan
-  💾 ageofconan.exe
   💾 ageofconandx10.exe
+  💾 ageofconan.exe
 
 Age of Conan: Unchained
   📂 age of conan
@@ -833,9 +833,9 @@ Age of Empires II: Definitive Edition
   💾 aoe2de_s.exe
 
 Age of Empires II: HD Edition
+  💾 empires2.exe
   💾 age2_x1.exe
   💾 aok hd.exe
-  💾 empires2.exe
 
 Age of Empires III: Definitive Edition
   📂 aoe3de
@@ -858,8 +858,8 @@ Age of Empires: Definitive Edition
   💾 aoede_s.exe
 
 Age of Empires® III: Complete Collection
-  💾 age3.exe
   💾 age3y.exe
+  💾 age3.exe
 
 Age of Mythology: Extended Edition
   📂 age of mythology
@@ -1138,8 +1138,8 @@ Alien: Isolation
     💾 ai.exe
 
 Aliens vs. Predator
-  💾 avp3.exe
   💾 avp_dx11.exe
+  💾 avp3.exe
 
 Aliens: Dark Descent
   📂 win64
@@ -1351,13 +1351,13 @@ Among Trees
     💾 among trees.exe
 
 Among Us
-  📂 among us
+  📂 among us - kopie
     💾 among us.exe
   📂 among us - copy
     💾 among us.exe
-  📂 among us - kopie
-    💾 among us.exe
   📂 among us - tou
+    💾 among us.exe
+  📂 among us
     💾 among us.exe
 
 Among Us 3D
@@ -1392,8 +1392,8 @@ An Arcade Full of Cats
     💾 arcade.exe
 
 Anarchy Online
-  💾 anarchy.exe
   💾 anarchyonline.exe
+  💾 anarchy.exe
 
 Anarchy: Wolf's law : Prologue
   📂 win64
@@ -1659,8 +1659,8 @@ Aooni
     💾 aooni.exe
 
 APB Reloaded
-  💾 apb.exe
   💾 apblauncher.exe
+  💾 apb.exe
 
 APE OUT
   📂 ape out
@@ -1683,10 +1683,10 @@ Apex Aim Trainer
     💾 thirdpersonbp-win64-shipping.exe
 
 Apex Legends
-  📂 apex
-    💾 r5apex.exe
-    💾 r5apex_dx12.exe
   📂 apex legends
+    💾 r5apex.exe
+  📂 apex
+    💾 r5apex_dx12.exe
     💾 r5apex.exe
   💾 r5apex_dx12.exe
 
@@ -1886,16 +1886,16 @@ ARK: Survival Ascended
 
 ARK: Survival Evolved
   📂 win64
-    💾 shootergame_be.exe
     💾 shootergameserver.exe
-  💾 shootergame.exe
+    💾 shootergame_be.exe
   💾 shootergame_be.exe
+  💾 shootergame.exe
 
 Arma 2
-  📂 arma 2
-    💾 arma2.exe
   📂 besetup
     💾 setup_battleyearma2.exe
+  📂 arma 2
+    💾 arma2.exe
 
 Arma 2: Operation Arrowhead
   📂 arma 2 operation arrowhead
@@ -1916,12 +1916,12 @@ Arma 3 Tools
     💾 arma3tools.exe
 
 Arma Reforger
-  📂 arma reforger
-    💾 armareforger_be.exe
-    💾 armareforgersteam.exe
   📂 arma reforger experimental
-    💾 armareforger_be.exe
     💾 armareforgersteam_experimental.exe
+    💾 armareforger_be.exe
+  📂 arma reforger
+    💾 armareforgersteam.exe
+    💾 armareforger_be.exe
 
 Arma: Cold War Assault
   📂 arma cold war assault
@@ -1984,9 +1984,9 @@ Artifact
     💾 dcg.exe
 
 Artifact Seeker: Resurrection
-  📂 artifact seeker resurrection
-    💾 artifactseeker.exe
   📂 artifact seekerlegend of aurorium
+    💾 artifactseeker.exe
+  📂 artifact seeker resurrection
     💾 artifactseeker.exe
   📂 artifact seekerprologue
     💾 artifactseeker.exe
@@ -2012,8 +2012,8 @@ As Far As The Eye
     💾 as far as the eye.exe
 
 Ascension: Deckbuilding Game
-  💾 ascension.exe
   💾 ascensiongame.exe
+  💾 ascension.exe
 
 Ascent - The Space Game
   💾 thespacegame.exe
@@ -2139,10 +2139,10 @@ Assemble with Care
 
 Assetto Corsa
   📂 assettocorsa
-    💾 acs.exe
-    💾 acshowroom.exe
     💾 content manager.exe
+    💾 acshowroom.exe
     💾 jsgme.exe
+    💾 acs.exe
   📂 editor
     💾 kseditor.exe
   📂 server
@@ -2442,10 +2442,10 @@ Avorion
     💾 avorion.exe
 
 Avowed
-  📂 win64
-    💾 avowed-win64-shipping.exe
   📂 wingdk
     💾 avowed-wingdk-shipping.exe
+  📂 win64
+    💾 avowed-win64-shipping.exe
 
 Awaria
   📂 awaria
@@ -2670,8 +2670,8 @@ Baldi's Basics Plus
 
 Baldur's Gate 3
   📂 bin
-    💾 bg3.exe
     💾 bg3_dx11.exe
+    💾 bg3.exe
   💾 larilauncher.exe
 
 Baldur's Gate II: Enhanced Edition
@@ -2972,8 +2972,8 @@ Battlefield 3
   💾 bf3.exe
 
 Battlefield 4
-  💾 bf4.exe
   💾 bf4cte.exe
+  💾 bf4.exe
 
 Battlefield 6
   📂 battlefield 6
@@ -3078,8 +3078,8 @@ Beam Eye Tracker
     💾 beameyetracker.exe
 
 BeamNG.drive
-  💾 beamng.drive.exe
   💾 beamng.drive.x64.exe
+  💾 beamng.drive.exe
 
 Bean
   📂 bean
@@ -3414,8 +3414,8 @@ BioShock™ 2 Remastered
   💾 bioshock2hd.exe
 
 BioShock™ Remastered
-  💾 bioshock.exe
   💾 bioshockhd.exe
+  💾 bioshock.exe
 
 Biped
   📂 biped
@@ -4118,9 +4118,9 @@ Border Officer
     💾 border officer.exe
 
 Borderlands
-  📂 binaries
-    💾 borderlands.exe
   📂 borderlands
+    💾 borderlands.exe
+  📂 binaries
     💾 borderlands.exe
 
 Borderlands 2
@@ -4268,8 +4268,8 @@ Bravery and Greed Demo
 
 Brawlhalla
   📂 brawlhalla
-    💾 brawlhalla.exe
     💾 brawlhallagame.exe
+    💾 brawlhalla.exe
   💾 brawlhalla.app
   💾 brawlhalla.exe
 
@@ -4706,8 +4706,8 @@ Cabal 2
   💾 cabal2main.exe
 
 CABAL Online
-  💾 cabal.exe
   💾 cabalmain.exe
+  💾 cabal.exe
 
 Cabernet
   📂 cabernet
@@ -4790,8 +4790,8 @@ Call of Duty Vanguard
     💾 vanguard.exe
 
 Call of Duty: Black Ops
-  💾 blackops.exe
   💾 blackopsmp.exe
+  💾 blackops.exe
   💾 t6sp.exe
 
 Call of Duty: Black Ops II
@@ -4835,13 +4835,13 @@ Call of Duty: Modern Warfare Remastered - Multiplayer
 Call of Duty: World at War
   📂 installers
     💾 pbsvc.exe
-  💾 codwaw.exe
   💾 codwawmp.exe
+  💾 codwaw.exe
 
 Call of Duty® Black Ops 7
-  💾 cod.exe
   💾 cod25-cod.exe
   💾 sp25-cod.exe
+  💾 cod.exe
 
 Call of Duty®: Black Ops Cold War
   💾 blackopscoldwar.exe
@@ -4876,8 +4876,8 @@ Call of Duty®: WWII
     💾 s2_sp64_ship.exe
 
 Call of Juarez
-  💾 coj.exe
   💾 coj_dx10.exe
+  💾 coj.exe
 
 Call of Juarez - Gunslinger
   💾 cojgunslinger.exe
@@ -5074,9 +5074,9 @@ Card Hunter
   💾 cardhunter.exe
 
 Card Shark
-  📂 card shark
-    💾 card_shark.exe
   📂 card shark demo
+    💾 card_shark.exe
+  📂 card shark
     💾 card_shark.exe
 
 Card Shop Simulator Multiplayer
@@ -5916,10 +5916,10 @@ CivIdle
     💾 cividle.exe
 
 Clair Obscur: Expedition 33
-  📂 win64
-    💾 sandfall-win64-shipping.exe
   📂 wingdk
     💾 sandfall-wingdk-shipping.exe
+  📂 win64
+    💾 sandfall-win64-shipping.exe
 
 Claire's Quest
   📂 claire's quest
@@ -6472,8 +6472,8 @@ Conan Chop Chop
     💾 conan chop chop.exe
 
 Conan Exiles
-  💾 conansandbox.exe
   💾 conansandbox_be.exe
+  💾 conansandbox.exe
 
 Conan the mighty pig
   📂 conan the mighty pig
@@ -6620,8 +6620,8 @@ CONVRGENCE
     💾 convrgence.exe
 
 Cook, Serve, Delicious!
-  💾 csdgogbuild.exe
   💾 csdsteambuild.exe
+  💾 csdgogbuild.exe
 
 Cook, Serve, Delicious! 2!!
   💾 csd2.exe
@@ -6779,9 +6779,9 @@ Counter-Strike Nexon: Studio
     💾 cstrike-online.exe
 
 Counter-Strike: Global Offensive
-  💾 csgo.exe
-  💾 csgo_linux64
   💾 csgo_osx64.app
+  💾 csgo_linux64
+  💾 csgo.exe
 
 Counter-Strike: Source
   📂 counter-strike source
@@ -6904,8 +6904,8 @@ Creaks
     💾 creaks.exe
 
 Creation Kit
-  💾 creationkit.exe
   💾 creationkit32.exe
+  💾 creationkit.exe
 
 CreativeDestruction
   📂 creativedestruction
@@ -7181,8 +7181,8 @@ CryptoClickers: Crypto Idle Game
     💾 cryptoclickers.exe
 
 Crysis
-  💾 crysis.exe
   💾 crysis64.exe
+  💾 crysis.exe
 
 Crysis 2
   💾 crysis2.exe
@@ -7537,8 +7537,8 @@ DARK SOULS™: REMASTERED
   📂 dark souls remastered
     💾 darksoulsitemrandomizer.exe
     💾 enemyrandomizer.exe
-  💾 darksouls.exe
   💾 darksoulsremastered.exe
+  💾 darksouls.exe
 
 Dark Swords
   📂 darkswords
@@ -7558,9 +7558,9 @@ Darkest Dungeon
   💾 darkest.exe
 
 Darkest Hour: A Hearts of Iron Game
-  💾 darkest hour.exe
   💾 darkest houren.exe
   💾 darkest hourkr.exe
+  💾 darkest hour.exe
 
 Darksburg
   📂 darksburg
@@ -7581,8 +7581,8 @@ Darksiders III
   💾 darksiders3.exe
 
 Darksiders Warmastered Edition
-  💾 darksiders1.exe
   💾 darksiderspc.exe
+  💾 darksiders1.exe
 
 DarkStar One
   💾 darkstarone.exe
@@ -7674,8 +7674,8 @@ Day of Dragons
     💾 dragons-win64-shipping.exe
 
 Day of Infamy
-  💾 dayofinfamy.exe
   💾 dayofinfamy_be.exe
+  💾 dayofinfamy.exe
 
 Day of the Tentacle Remastered
   📂 day of the tentacle remastered
@@ -7688,8 +7688,8 @@ Days Gone
 DayZ
   📂 dayz
     💾 dayzuninstaller.exe
-  💾 dayz.exe
   💾 dayz_x64.exe
+  💾 dayz.exe
 
 DayZ Experimental
   📂 dayz exp
@@ -7732,8 +7732,8 @@ Dead Bits
 Dead by Daylight
   📂 dead by daylight
     💾 deadbydaylight.exe
-  💾 deadbydaylight-egs-shipping.exe
   💾 deadbydaylight-win64-shipping.exe
+  💾 deadbydaylight-egs-shipping.exe
   💾 deadbydaylight.exe
 
 Dead Cells
@@ -8200,8 +8200,8 @@ Delta Force
   📂 df_garena
     💾 deltaforceclient.exe
   📂 launcher
-    💾 df_launcher.exe
     💾 df_launcher_global.exe
+    💾 df_launcher.exe
   📂 win64
     💾 deltaforceclient-win64-shipping.exe
   💾 deltaforceclient.exe
@@ -8444,8 +8444,8 @@ Deus Ex: Game of the Year Edition
   💾 deusex.exe
 
 Deus Ex: Human Revolution - Director's Cut
-  💾 dxhr.exe
   💾 dxhrdc.exe
+  💾 dxhr.exe
 
 Deus Ex: Invisible War
   📂 system
@@ -8475,9 +8475,9 @@ Devil May Cry 5
     💾 devilmaycry5.exe
 
 Devil May Cry® 4 Special Edition
+  💾 devilmaycry4specialedition.exe
   💾 devilmaycry4_dx10.exe
   💾 devilmaycry4_dx9.exe
-  💾 devilmaycry4specialedition.exe
   💾 devimaycry4.exe
 
 Devilian
@@ -8514,9 +8514,9 @@ Diablo II
   💾 diablo ii.exe
 
 Diablo III
+  💾 diablo iii64.exe
   💾 diablo iii.app
   💾 diablo iii.exe
-  💾 diablo iii64.exe
 
 Diablo Immortal
   📂 win64
@@ -8527,9 +8527,9 @@ Diablo IV
     💾 diablo iv.exe
 
 Diadra Empty
-  💾 diadraempty.exe
-  💾 diadraempty154lw.exe
   💾 diadraempty154plus.exe
+  💾 diadraempty154lw.exe
+  💾 diadraempty.exe
 
 Dialtown: Phone Dating Sim
   📂 dialtown phone dating sim
@@ -8605,8 +8605,8 @@ Dig or Die
 
 Digimon Masters Online
   📂 digimon masters online - steam
-    💾 gdmo.exe
     💾 updatemanager.exe
+    💾 gdmo.exe
   💾 dmlauncher.exe
 
 Digimon Story Cyber Sleuth: Complete Edition
@@ -8925,8 +8925,8 @@ Divinity II: Developer's Cut
 
 Divinity Original Sin 2
   📂 bin
-    💾 eocapp.exe
     💾 supporttool.exe
+    💾 eocapp.exe
 
 Divinity: Dragon Commander
   📂 shipping
@@ -9027,8 +9027,8 @@ DOKAPON! Sword of Fury
     💾 dokapon! sword of fury.exe
 
 Doki Doki Literature Club
-  💾 ddlc.exe
   💾 doki doki literature club.app
+  💾 ddlc.exe
 
 Doki Doki Literature Club Plus!
   📂 doki doki literature club plus
@@ -9124,13 +9124,13 @@ Don't Shout Together
     💾 dsbt-win64-shipping.exe
 
 Don't Starve
-  💾 dontstarve.exe
   💾 dontstarve_steam.exe
+  💾 dontstarve.exe
 
 Don't Starve Together
   📂 bin
-    💾 dontstarve.exe
     💾 dontstarve_steam.exe
+    💾 dontstarve.exe
 
 Don't Stop, Girlypop! Lite
   📂 win64
@@ -9226,8 +9226,8 @@ Dot to Dot Puzzles
 Dota 2
   📂 osx64
     💾 dota2.app
-  💾 dota2.exe
   💾 dota_osx.app
+  💾 dota2.exe
 
 Dota Underlords
   📂 win64
@@ -9339,10 +9339,10 @@ DRAGON BALL XENOVERSE
 
 DRAGON BALL XENOVERSE 2
   📂 db xenoverse 2
-    💾 start.exe
     💾 xv2characreat.exe
-    💾 xv2ins.exe
     💾 xv2skilcreat.exe
+    💾 xv2ins.exe
+    💾 start.exe
   📂 xv2ins
     💾 xv2ins.exe
   💾 dbxv2.exe
@@ -9836,11 +9836,11 @@ Dungeon Defenders
 
 Dungeon Defenders II
   📂 win32
-    💾 dundefgame.exe
     💾 dungeondefenders.exe
+    💾 dundefgame.exe
   📂 win64
-    💾 dundefgame.exe
     💾 dungeondefenders.exe
+    💾 dundefgame.exe
 
 Dungeon Defenders: Awakened
   📂 win64
@@ -9940,8 +9940,8 @@ Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition
     💾 nwn2.exe
 
 Dungeons & Dragons Online®
-  💾 dndclient.exe
   💾 dndclient64.exe
+  💾 dndclient.exe
 
 Dungeons & Dragons: Chronicles of Mystara
   📂 dungeons & dragons hd
@@ -10103,19 +10103,19 @@ E.Y.E: Divine Cybermancy
 
 EA SPORTS FC 24
   📂 ea sports fc 24
-    💾 fc24.exe
     💾 fc24_trial.exe
+    💾 fc24.exe
 
 EA SPORTS FC 25
   📂 ea sports fc 25
-    💾 fc25.exe
     💾 fc25_trial.exe
+    💾 fc25.exe
 
 EA SPORTS FC 26
   📂 ea sports fc 26
-    💾 fc26.exe
     💾 fc26_showcase.exe
     💾 fc26_trial.exe
+    💾 fc26.exe
 
 Earn to Die 2
   📂 earn to die 2
@@ -10366,9 +10366,9 @@ Elin
     💾 elin.exe
 
 Elite Dangerous
-  💾 elitedangerous.exe
   💾 elitedangerous32.exe
   💾 elitedangerous64.exe
+  💾 elitedangerous.exe
 
 Elon Simulator 2019
   📂 elon simulator 2019
@@ -10816,8 +10816,8 @@ Escape the Game: Intro
     💾 escapethegame.exe
 
 ESEA
-  💾 eseaclient.exe
   💾 eseaclientsteam.exe
+  💾 eseaclient.exe
 
 Esports Godfather
   📂 esports godfather
@@ -10923,8 +10923,8 @@ Euro Truck Simulator 2
   💾 eurotrucks2.exe
 
 Europa Universalis III
-  💾 eu3.exe
   💾 eu3game.exe
+  💾 eu3.exe
 
 Europa Universalis IV
   💾 eu4.app
@@ -11169,8 +11169,8 @@ F*CK STALIN
 F.E.A.R.
   📂 fearxp2
     💾 fearxp2.exe
-  💾 fear.exe
   💾 fearxp.exe
+  💾 fear.exe
 
 F.E.A.R. 2: Project Origin
   💾 fear2.exe
@@ -11204,13 +11204,13 @@ F1 2018
 
 F1 2019
   📂 f1 2019
-    💾 f1_2019.exe
     💾 f1_2019_dx12.exe
+    💾 f1_2019.exe
 
 F1 2020
   📂 f1 2020
-    💾 f1_2020.exe
     💾 f1_2020_dx12.exe
+    💾 f1_2020.exe
 
 F1 2021
   📂 f1 2021
@@ -11356,8 +11356,8 @@ Falcon 4.0
     💾 falcon4.exe
 
 Fall Guys
-  💾 fallguys_client.exe
   💾 fallguys_client_game.exe
+  💾 fallguys_client.exe
 
 Fall of the stick knights
   📂 fall of the stick knights
@@ -11395,15 +11395,15 @@ Fallout
   💾 falloutw.exe
 
 Fallout 2
-  💾 fallout2.exe
   💾 fallout2hr.exe
+  💾 fallout2.exe
 
 Fallout 3: Game of the Year Edition
   📂 fallout 3 goty
-    💾 4gb_patch.exe
     💾 fallout3 - garden of eden creation kit.exe
-    💾 fose_loader.exe
     💾 games for windows live disabler.exe
+    💾 fose_loader.exe
+    💾 4gb_patch.exe
   💾 fallout3.exe
 
 Fallout 4
@@ -11517,8 +11517,8 @@ Far Cry Primal
   💾 fcprimal.exe
 
 Far Cry® 3
-  💾 farcry3.exe
   💾 farcry3_d3d11.exe
+  💾 farcry3.exe
 
 Far Cry® 3 Blood Dragon
   📂 bin
@@ -12040,15 +12040,15 @@ FINAL FANTASY XIII
   💾 ffxiiiimg.exe
 
 FINAL FANTASY XIII-2
-  💾 ffxiii2.exe
   💾 ffxiii2img.exe
+  💾 ffxiii2.exe
 
 FINAL FANTASY XIV Online
   📂 boot
     💾 ffxivboot.exe
-  💾 ffxiv.exe
-  💾 ffxiv_dx11.exe
   💾 final fantasy xiv.app
+  💾 ffxiv_dx11.exe
+  💾 ffxiv.exe
 
 FINAL FANTASY XV WINDOWS EDITION
   💾 ffxv_s.exe
@@ -12058,14 +12058,14 @@ FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO
     💾 ffxv_s.exe
 
 FINAL FANTASY XVI
-  📂 final fantasy xvi
-    💾 ffxvi.exe
   📂 final fantasy xvi demo
     💾 ffxvi_demo.exe
-  📂 finalfantasyxvi
-    💾 ffxvi.exe
   📂 finalfantasyxvi_demo
     💾 ffxvi_demo.exe
+  📂 final fantasy xvi
+    💾 ffxvi.exe
+  📂 finalfantasyxvi
+    💾 ffxvi.exe
 
 FINAL FANTASY® XI: Ultimate Collection Seekers Edition NA
   📂 toolsus
@@ -12299,8 +12299,8 @@ Flamebreak
   💾 flamebreak.exe
 
 Flash Flash Revolution
-  💾 ffr.exe
   💾 r3air.exe
+  💾 ffr.exe
 
 Flash Party
   📂 flash party
@@ -12702,9 +12702,9 @@ FORTIFY
   💾 fortify.exe
 
 Fortnite
-  💾 fortniteclient-mac-shipping.app
-  💾 fortniteclient-win64-shipping.exe
   💾 fortniteclient-win64-shipping_eac_eos.exe
+  💾 fortniteclient-win64-shipping.exe
+  💾 fortniteclient-mac-shipping.app
 
 Fortress Forever
   📂 fortress forever
@@ -12803,8 +12803,8 @@ Fractured Online
     💾 unityclient@windows.exe
 
 Fractured Space
-  💾 fractured space.exe
   💾 spacegame-win64-shipping.exe
+  💾 fractured space.exe
 
 FragPunk
   📂 win64
@@ -13335,8 +13335,8 @@ Garden Story
     💾 ${garden story}.exe
 
 Garfield Kart
-  💾 garfield_master7.exe
   💾 garfieldkartnomulti.exe
+  💾 garfield_master7.exe
 
 Garfield Kart - Furious Racing
   📂 garfield kart - furious racing
@@ -13347,12 +13347,12 @@ GAROU: MARK OF THE WOLVES
     💾 garou.exe
 
 Garry's Mod
-  📂 bin
-    💾 gmad.exe
   📂 garrysmod
     💾 hl2.exe
   📂 win64
     💾 gmod.exe
+  📂 bin
+    💾 gmad.exe
   💾 >hl2.exe
   💾 >hl2_osx
   💾 hl2.exe
@@ -13583,9 +13583,9 @@ Ghost of Tsushima DIRECTOR'S CUT
 Ghost Recon Breakpoint
   📂 ghost recon breakpoint
     💾 grb.exe
-  💾 grb.exe
-  💾 grb_upp.exe
   💾 grb_vulkan.exe
+  💾 grb_upp.exe
+  💾 grb.exe
 
 Ghost Trick: Phantom Detective
   📂 ghost trick
@@ -14111,21 +14111,21 @@ Grand Theft Auto San Andreas
 
 Grand Theft Auto V Enhanced
   📂 grand theft auto v enhanced
-    💾 gta5_enhanced.exe
     💾 gta5_enhanced_be.exe
+    💾 gta5_enhanced.exe
 
 Grand Theft Auto V Legacy
   📂 grand theft auto v
+    💾 ragepluginhook.exe
+    💾 gta5_be.exe
     💾 fivem.exe
     💾 gta5.exe
-    💾 gta5_be.exe
-    💾 ragepluginhook.exe
   📂 installers
     💾 social-club-setup.exe
-  📂 lspdfr
-    💾 lspdfr configurator.exe
   📂 subprocess
     💾 fivem_gtaprocess.exe
+  📂 lspdfr
+    💾 lspdfr configurator.exe
   💾 gta5.exe
 
 Grand Theft Auto: Episodes from Liberty City
@@ -14273,8 +14273,8 @@ GRID (2019)
     💾 grid_dx12.exe
 
 GRID 2
-  💾 grid2.exe
   💾 grid2_avx.exe
+  💾 grid2.exe
 
 GRID Autosport
   💾 gridautosport_avx.exe
@@ -14368,10 +14368,10 @@ Grounded
     💾 maine-win64-shipping.exe
 
 Grounded 2
-  📂 wingdk
-    💾 grounded2-wingdk-shipping.exe
   📂 wingrts
     💾 grounded2-wingrts-shipping.exe
+  📂 wingdk
+    💾 grounded2-wingdk-shipping.exe
 
 Grow Defense
   📂 grow defense
@@ -14627,8 +14627,8 @@ H.I.A: Horror Investigation Agency
 
 H1Z1
   📂 h1z1
-    💾 h1z1.exe
     💾 h1z1_be.exe
+    💾 h1z1.exe
 
 H1Z1: King of the Kill
   📂 h1z1 king of the kill
@@ -14719,9 +14719,9 @@ Half-Life
   💾 hl.exe
 
 Half-Life 2
+  💾 hl2hl2.exe
   💾 >hl2.exe
   💾 >hl2_osx
-  💾 hl2hl2.exe
 
 Half-Life 2 RTX
   📂 half-life 2 rtx
@@ -14775,9 +14775,9 @@ Halo Custom Edition
   💾 haloce.exe
 
 Halo Infinite
-  📂 game
-    💾 haloinfinite.exe
   📂 halo infinite
+    💾 haloinfinite.exe
+  📂 game
     💾 haloinfinite.exe
 
 Halo Wars: Definitive Edition
@@ -14878,10 +14878,10 @@ Handyman Legend
     💾 handyman legend.exe
 
 HANS
-  📂 hans
-    💾 hans.exe
   📂 win64
     💾 hans-win64-shipping.exe
+  📂 hans
+    💾 hans.exe
 
 Hanyo
   📂 hanyo
@@ -15137,10 +15137,10 @@ Hearts of Iron II
   💾 hoi2.exe
 
 Hearts of Iron III
-  💾 hoi3.exe
-  💾 hoi3_tfh.exe
   💾 hoi3_tfh_kor.exe
+  💾 hoi3_tfh.exe
   💾 hoi3game.exe
+  💾 hoi3.exe
 
 Hearts of Iron IV
   📂 hearts of iron iv
@@ -15226,8 +15226,8 @@ Hell is Us
 
 Hell Let Loose
   📂 win64
-    💾 hll-win64-shipping.exe
     💾 hllepicgamesstore-win64-shipping.exe
+    💾 hll-win64-shipping.exe
 
 Hell Pie
   📂 win64
@@ -15560,10 +15560,10 @@ Heroes of Newerth
   💾 hon.exe
 
 Heroes of the Storm
-  💾 heroes of the storm.exe
-  💾 heroes.app
-  💾 heroesofthestorm.exe
   💾 heroesofthestorm_x64.exe
+  💾 heroes of the storm.exe
+  💾 heroesofthestorm.exe
+  💾 heroes.app
 
 Heroes of Valor
   📂 win64
@@ -15957,9 +15957,9 @@ Homeworld 3
     💾 homeworld3.exe
 
 Homeworld Remastered Collection
-  📂 release
-    💾 homeworldrm.exe
   📂 releaseeos
+    💾 homeworldrm.exe
+  📂 release
     💾 homeworldrm.exe
 
 Homeworld: Deserts of Kharak
@@ -16111,8 +16111,8 @@ Hotshot Racing
     💾 hotshotracing.exe
 
 Houdini Indie
-  💾 hindie.exe
   💾 hindie.steam.exe
+  💾 hindie.exe
 
 House
   📂 house
@@ -16273,8 +16273,8 @@ Hunting Simulator 2
     💾 hunter-win64-shipping.exe
 
 Hurtworld
-  💾 hurtworld.exe
   💾 hurtworldclient.exe
+  💾 hurtworld.exe
 
 Hush Hush - Only Your Love Can Save Them
   📂 hush hush
@@ -17061,13 +17061,13 @@ Instruments of Destruction
     💾 instruments.exe
 
 Insurgency
-  💾 insurgency.exe
   💾 insurgency_be.exe
+  💾 insurgency.exe
 
 Insurgency: Sandstorm
-  📂 sandstorm
-    💾 insurgencyeac.exe
   📂 sandstorm_beta
+    💾 insurgencyeac.exe
+  📂 sandstorm
     💾 insurgencyeac.exe
   📂 win64
     💾 insurgencyclient-win64-test.exe
@@ -17196,8 +17196,8 @@ IOSoccer
     💾 iosoccer.exe
 
 iRacing
-  💾 iracingsim.exe
   💾 iracingsim64.exe
+  💾 iracingsim.exe
 
 iRacing.com Race Simulation
   📂 iracing
@@ -17259,10 +17259,10 @@ Iron Snout
   💾 ironsnout.exe
 
 Ironsight
-  📂 2017
-    💾 vc_redist.x86.exe
   📂 ironsight_wpg
     💾 ironsight.exe
+  📂 2017
+    💾 vc_redist.x86.exe
 
 IronWolf VR
   📂 ironwolf
@@ -17309,8 +17309,8 @@ Islands of Insight
     💾 islandsofinsight-win64-shipping.exe
 
 Islands of Nyne: Battle Royale
-  💾 ionbranch.exe
   💾 ionbranch_be.exe
+  💾 ionbranch.exe
 
 Isle of Arrows
   📂 isle of arrows
@@ -17701,8 +17701,8 @@ Just Shapes & Beats
 
 Just Survive
   📂 just survive
-    💾 h1z1.exe
     💾 h1z1_be.exe
+    💾 h1z1.exe
 
 Just War Trains
   📂 win64
@@ -17930,8 +17930,8 @@ Keplerth
     💾 keplerth.exe
 
 Kerbal Space Program
-  💾 ksp.exe
   💾 ksp_x64.exe
+  💾 ksp.exe
 
 Kerbal Space Program 2
   📂 kerbal space program 2
@@ -18158,11 +18158,11 @@ Kingdom Eighties
 KINGDOM HEARTS -HD 1.5+2.5 ReMIX-
   📂 kingdom hearts -hd 1.5+2.5 remix-
     💾 kingdom hearts birth by sleep final mix.exe
-    💾 kingdom hearts final mix.exe
+    💾 kingdom hearts re_chain of memories.exe
     💾 kingdom hearts hd 1.5+2.5 launcher.exe
     💾 kingdom hearts hd 1.5+2.5 remix.exe
     💾 kingdom hearts ii final mix.exe
-    💾 kingdom hearts re_chain of memories.exe
+    💾 kingdom hearts final mix.exe
     💾 waittitleproject.exe
 
 KINGDOM HEARTS III + Re Mind (DLC)
@@ -18705,8 +18705,8 @@ League of Legends
     💾 lol.exe
   💾 league of legends.app
   💾 league of legends.exe
-  💾 leagueclientux.exe
   💾 leagueoflegends.app
+  💾 leagueclientux.exe
   💾 lollauncher.app
 
 League of Maidens
@@ -18736,12 +18736,12 @@ Left 4 Dead
   💾 left4dead.exe
 
 Left 4 Dead 2
-  📂 bin
-    💾 l4d2_workshop_manager.exe
   📂 left 4 dead 2
     💾 left4dead2.exe
-  💾 >hl2_osx
+  📂 bin
+    💾 l4d2_workshop_manager.exe
   💾 left4dead2.exe
+  💾 >hl2_osx
 
 Left on Read
   📂 win
@@ -18768,8 +18768,8 @@ Legend of Dungeon
 
 Legend of Edda: Pegasus
   📂 legend of edda pegasus
-    💾 client.exe
     💾 launcher.exe
+    💾 client.exe
 
 Legend of Grimrock
   📂 legend of grimrock
@@ -18864,8 +18864,8 @@ LEGO® MARVEL Super Heroes 2
     💾 legomarvel2_dx11.exe
 
 LEGO® MARVEL's Avengers
-  💾 legomarvelavengers.exe
   💾 legomarvelavengers_dx11.exe
+  💾 legomarvelavengers.exe
 
 LEGO® Party!
   📂 lego party
@@ -19164,8 +19164,8 @@ Lineage
   💾 lineage.exe
 
 Lineage II
-  💾 l2.exe
   💾 lineageii.exe
+  💾 l2.exe
 
 Lines X Free
   📂 lines x free
@@ -19815,11 +19815,11 @@ M.E.A.T. Veterans
     💾 meat - veterans.exe
 
 Mabinogi
+  📂 mabinogi
+    💾 nxsteam.exe
+    💾 client.exe
   📂 appdata
     💾 client.exe
-  📂 mabinogi
-    💾 client.exe
-    💾 nxsteam.exe
   💾 mabinogi.exe
 
 MachiaVillain
@@ -20235,12 +20235,12 @@ Marvel Contest of Champions
     💾 champions.exe
 
 Marvel Heroes 2015
-  💾 marvelheroes2015.exe
   💾 marvelheroesomega.exe
+  💾 marvelheroes2015.exe
 
 Marvel Heroes 2016
-  💾 marvelheroes2016.exe
   💾 marvelheroesomega.exe
+  💾 marvelheroes2016.exe
 
 Marvel Puzzle Quest
   📂 ship
@@ -20626,13 +20626,13 @@ Men of War II
     💾 mow2.exe
 
 Men of War: Assault Squad
-  💾 mow_assault_squad.exe
   💾 mow_assault_squad_ed.exe
+  💾 mow_assault_squad.exe
   💾 mow_assualt_squad.exe
 
 Men of War: Assault Squad 2
-  💾 mowas2.exe
   💾 mowas_2.exe
+  💾 mowas2.exe
 
 Men of War: Assault Squad 2 - Cold War
   📂 x64
@@ -20830,9 +20830,9 @@ Metro Exodus
     💾 metroexodus.exe
 
 Metro Exodus Enhanced Edition
-  📂 meenhancededition
-    💾 metroexodus.exe
   📂 metro exodus enhanced edition
+    💾 metroexodus.exe
+  📂 meenhancededition
     💾 metroexodus.exe
 
 Metro Redux
@@ -21099,13 +21099,13 @@ Mindustry
     💾 mindustry.exe
 
 Minecraft
-  📂 bin
-    💾 javaw.exe
   📂 content
     💾 minecraft.exe
-  💾 >java
-  💾 >javaw.exe
+  📂 bin
+    💾 javaw.exe
   💾 minecraft.windows.exe
+  💾 >javaw.exe
+  💾 >java
 
 Minecraft Dungeons
   📂 win64
@@ -21838,15 +21838,15 @@ Mount & Blade
 
 Mount & Blade II: Bannerlord
   📂 win64_shipping_client
-    💾 bannerlord.exe
     💾 taleworlds.mountandblade.launcher.exe
+    💾 bannerlord.exe
 
 Mount & Blade: Warband
   📂 mountblade warband
-    💾 battlesizer.exe
-    💾 binkplay.exe
-    💾 mb_warband.exe
     💾 mb_warband_old.exe
+    💾 battlesizer.exe
+    💾 mb_warband.exe
+    💾 binkplay.exe
   📂 wse
     💾 wseloader.exe
 
@@ -22391,13 +22391,13 @@ NARUTO SHIPPUDEN: Ultimate Ninja STORM 2
     💾 nsuns2.exe
 
 NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst
-  💾 ns3fb.exe
   💾 nsuns3.exe
+  💾 ns3fb.exe
 
 NARUTO SHIPPUDEN: Ultimate Ninja STORM 4
   📂 naruto shippuden ultimate ninja storm 4
-    💾 x360ce.exe
     💾 x360ce_x64.exe
+    💾 x360ce.exe
   💾 nsuns4.exe
 
 NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution
@@ -22812,12 +22812,12 @@ New Tales from the Borderlands
     💾 newtales.exe
 
 New World
-  📂 bin64
-    💾 newworld.exe
   📂 new world
     💾 newworldlauncher.exe
-  💾 newworld.exe
+  📂 bin64
+    💾 newworld.exe
   💾 newworldlauncher.exe
+  💾 newworld.exe
 
 News Tower
   📂 news tower
@@ -22836,8 +22836,8 @@ Nexomon: Extinction
     💾 nexomon extinction.exe
 
 Next Car Game: Wreckfest
-  💾 wreckfest.exe
   💾 wreckfest_x64.exe
+  💾 wreckfest.exe
 
 Next Day: Survival
   📂 next day survival
@@ -22933,9 +22933,9 @@ Night of the Full Moon
     💾 night of the full moon.exe
 
 Night Run
-  📂 night run
-    💾 nightrun.exe
   📂 nightrun3d2gw
+    💾 nightrun.exe
+  📂 night run
     💾 nightrun.exe
 
 NIGHT-RUNNERS PROLOGUE
@@ -23779,9 +23779,9 @@ OneShot: World Machine Edition
     💾 oneshotmg.exe
 
 ONI : Road to be the Mightiest Oni
-  📂 ae
-    💾 oni.exe
   📂 oni
+    💾 oni.exe
+  📂 ae
     💾 oni.exe
   💾 oni.exe
 
@@ -23969,8 +23969,8 @@ Organ Trail: Director's Cut
   💾 organtrail.exe
 
 Ori and the Blind Forest: Definitive Edition
-  💾 ori.exe
   💾 oride.exe
+  💾 ori.exe
 
 Ori and the Will of the Wisps
   📂 ori and the will of the wisps
@@ -24137,8 +24137,8 @@ Outer Wilds
     💾 outerwilds.exe
 
 Outlast
-  💾 olgame.exe
   💾 outlast.app
+  💾 olgame.exe
 
 Outlast 2
   📂 win64
@@ -24375,8 +24375,8 @@ Palace of Cards
     💾 palace.exe
 
 Paladins
-  💾 paladins.exe
   💾 paladinseac.exe
+  💾 paladins.exe
 
 Paleo Pines
   📂 paleo pines
@@ -24391,10 +24391,10 @@ Palia
     💾 paliaclient-win64-shipping.exe
 
 Palworld
-  📂 win64
-    💾 palworld-win64-shipping.exe
   📂 wingdk
     💾 palworld-wingdk-shipping.exe
+  📂 win64
+    💾 palworld-win64-shipping.exe
 
 Pan'orama
   📂 tileplacer
@@ -24606,28 +24606,28 @@ Path of Achra
     💾 pathofachra.exe
 
 Path of Exile
-  📂 path of exile
+  📂 path of exile taiwan
     💾 pathofexile.exe
-    💾 pathofexile_x64.exe
+  📂 path of exile
     💾 pathofexile_x64steam.exe
     💾 pathofexilesteam.exe
-  📂 path of exile taiwan
+    💾 pathofexile_x64.exe
     💾 pathofexile.exe
   📂 pathofexile
     💾 pathofexileegs.exe
-  📂 poe
-    💾 pathofexile.exe
   📂 流亡黯道
     💾 pathofexilesteam.exe
+  📂 poe
+    💾 pathofexile.exe
 
 Path of Exile 2
-  📂 path of exile 2
-    💾 pathofexile.exe
-    💾 pathofexile_x64.exe
-    💾 pathofexile_x64steam.exe
-    💾 pathofexilesteam.exe
   📂 path of exile 2 taiwan
     💾 pathofexilesteam.exe
+  📂 path of exile 2
+    💾 pathofexile_x64steam.exe
+    💾 pathofexilesteam.exe
+    💾 pathofexile_x64.exe
+    💾 pathofexile.exe
   📂 path of exile2
     💾 pathofexile_kg.exe
   📂 pathofexile2
@@ -24760,10 +24760,10 @@ Peepo Island
     💾 peepo_island-win64-shipping.exe
 
 Peggle Deluxe
-  📂 peggle
-    💾 popcapgame1.exe
   📂 peggle deluxe
     💾 peggle.exe
+  📂 peggle
+    💾 popcapgame1.exe
 
 Peggle Extreme
   📂 peggleextreme
@@ -25105,8 +25105,8 @@ Pirate Fighting Simulator
     💾 piratefs-win64-shipping.exe
 
 Pirate101
-  💾 pirate.exe
   💾 pirate101.exe
+  💾 pirate.exe
 
 Pirates
   📂 win64
@@ -25317,9 +25317,9 @@ Plants vs. Zombies: Game of the Year
   💾 plantsvszombies.exe
 
 Plants vs. Zombies™: Replanted
-  📂 pvz replanted
-    💾 replanted.exe
   📂 pvz replanted - pc
+    💾 replanted.exe
+  📂 pvz replanted
     💾 replanted.exe
 
 Plasma
@@ -25356,11 +25356,11 @@ Playcraft
 
 PLAYERUNKNOWN'S BATTLEGROUNDS
   📂 win64
-    💾 tslgame.exe
     💾 tslgame_be.exe
     💾 tslgame_uc.exe
-  💾 tslgame.exe
+    💾 tslgame.exe
   💾 tslgame_be.exe
+  💾 tslgame.exe
 
 PlayStation®VR2 App
   📂 playstationvr2app
@@ -25690,8 +25690,8 @@ PowerWash Simulator 2
     💾 powerwash simulator 2.exe
 
 PPSSPP
-  💾 ppssppwindows.exe
   💾 ppssppwindows64.exe
+  💾 ppssppwindows.exe
 
 Praey for the Gods
   📂 praey for the gods
@@ -25966,8 +25966,8 @@ Project Borealis: Prologue
     💾 projectborealis-win64-shipping.exe
 
 Project CARS
-  💾 pcars.exe
   💾 pcars64.exe
+  💾 pcars.exe
 
 Project CARS 2
   💾 pcars2avx.exe
@@ -26180,9 +26180,9 @@ Psychopomp GOLD
 
 PUBG LITE
   📂 pubglite
-    💾 launcher.exe
     💾 launcher_updater.exe
     💾 pubg lite.exe
+    💾 launcher.exe
   📂 win64
     💾 pubglite-win64-shipping.exe
   💾 pubglite-win64-shipping.exe
@@ -26349,8 +26349,8 @@ Quake III Arena
     💾 quake3.exe
 
 Quake Live
-  💾 quakelive.exe
   💾 quakelive_steam.exe
+  💾 quakelive.exe
 
 Quantum Break
   💾 quantumbreak.exe
@@ -26727,8 +26727,8 @@ Realm Royale
   📂 realm royale
     💾 realmbootstrapper.exe
   📂 win64
-    💾 realm.exe
     💾 realmeac.exe
+    💾 realm.exe
 
 Realms Of Bondage
   📂 realms of bondage
@@ -26762,8 +26762,8 @@ Rebel Forces
     💾 rebelforces.exe
 
 Rebel Galaxy
-  💾 rebelgalaxygog.exe
   💾 rebelgalaxysteam.exe
+  💾 rebelgalaxygog.exe
 
 Rebel Inc: Escalation
   📂 rebel inc escalation
@@ -26783,8 +26783,8 @@ Rebuild 3: Gangs of Deadsville
 Rec Room
   📂 recroom
     💾 recroom.exe
-  💾 recroom.exe
   💾 recroom_release.exe
+  💾 recroom.exe
 
 Receiver 2
   📂 receiver 2
@@ -27288,8 +27288,8 @@ Riff Racer
 RIFT
   📂 rift
     💾 glyphclientapp.exe
-  💾 rift.exe
   💾 rift_x64.exe
+  💾 rift.exe
 
 Rift of the NecroDancer
   📂 riftofthenecrodancerostvolume1
@@ -27343,8 +27343,8 @@ Rise of Agon
   📂 data
     💾 darkfall.exe
     💾 darkfall.exe
-  💾 darkfall.exe
   💾 darkfall_roa.exe
+  💾 darkfall.exe
 
 Rise of Eros
   📂 rise of eros
@@ -27372,8 +27372,8 @@ Rise of Liberty
 
 Rise of Nations: Extended Edition
   📂 rise of nations
-    💾 patriots.exe
     💾 riseofnations.exe
+    💾 patriots.exe
 
 Rise of the Tomb Raider
   💾 rottr.exe
@@ -27500,9 +27500,9 @@ Robin Morningwood Adventure
     💾 robin morningwood adventure.exe
 
 Roblox
+  💾 robloxplayerbeta.exe
   💾 roblox.app
   💾 roblox.exe
-  💾 robloxplayerbeta.exe
 
 ROBOBEAT
   📂 robobeat
@@ -27517,8 +27517,8 @@ RoboCop: Rogue City - Unfinished Business
     💾 robocopunfinishedbusiness-win64-shipping.exe
 
 Robocraft
-  💾 robocraft.exe
   💾 robocraftclient.exe
+  💾 robocraft.exe
 
 Robocraft 2
   📂 robocraft 2
@@ -27795,8 +27795,8 @@ Rose
     💾 rose-win64-shipping.exe
 
 Rosenkreuzstilette
-  💾 rks.exe
   💾 rks_e.exe
+  💾 rks.exe
 
 Rotwood
   📂 bin
@@ -27946,11 +27946,11 @@ Runes of Magic
 RuneScape
   📂 bin
     💾 jagexlauncher.exe
-  💾 osbuddy.exe
+  💾 swiftkit-rs.exe
   💾 osbuddy64.exe
   💾 runescape.app
   💾 runescape.exe
-  💾 swiftkit-rs.exe
+  💾 osbuddy.exe
 
 RuneScape: Dragonwilds
   📂 rsdragonwilds
@@ -28010,8 +28010,8 @@ RUSSIAPHOBIA
 Rust
   📂 rust
     💾 rustclient.exe
-  💾 rust.exe
   💾 rustclient.exe
+  💾 rust.exe
 
 Rustangelo
   📂 rustangelo
@@ -28096,19 +28096,19 @@ S.T.A.L.K.E.R. 2: Heart of Chornobyl
     💾 stalker2-win64-shipping.exe
 
 S.T.A.L.K.E.R.: Call of Pripyat
-  📂 bin
-    💾 xrengine.exe
   📂 stalker call of pripyat
     💾 stalker-cop.exe
+  📂 bin
+    💾 xrengine.exe
 
 S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition
   📂 stalker call of prypiat - ee
     💾 xrengine.exe
 
 S.T.A.L.K.E.R.: Clear Sky
-  📂 bin
-    💾 xrengine.exe
   📂 stalker clear sky
+    💾 xrengine.exe
+  📂 bin
     💾 xrengine.exe
 
 S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition
@@ -28194,8 +28194,8 @@ Saints Row: Gat out of Hell
   💾 saintsrowgatoutofhell.exe
 
 Saints Row: The Third
-  💾 saintsrowthethird.exe
   💾 saintsrowthethird_dx11.exe
+  💾 saintsrowthethird.exe
 
 Sairento VR
   📂 sairento vr
@@ -28390,9 +28390,9 @@ Satellite Reign
 Satisfactory
   📂 win64
     💾 factorygame-win64-shipping.exe
-  💾 factorygame-win64-shipping.exe
-  💾 factorygameegs-win64-shipping.exe
   💾 factorygamesteam-win64-shipping.exe
+  💾 factorygameegs-win64-shipping.exe
+  💾 factorygame-win64-shipping.exe
 
 Satisfactory Modeler
   📂 satisfactory modeler
@@ -28482,10 +28482,10 @@ Scene Investigators Demo
     💾 scene investigators (demo).exe
 
 Schedule I
-  📂 schedule i
-    💾 schedule i.exe
   📂 schedule i demo
     💾 schedule i free sample.exe
+  📂 schedule i
+    💾 schedule i.exe
 
 Scheming Through The Zombie Apocalypse: The Beginning
   📂 scheming through ep1
@@ -28706,9 +28706,9 @@ Sea of Survivors
 Sea of Thieves
   📂 content
     💾 seaofthieves.exe
-  📂 win64
-    💾 sotgame.exe
   📂 wingdk
+    💾 sotgame.exe
+  📂 win64
     💾 sotgame.exe
   💾 sotgame.exe
 
@@ -28768,8 +28768,8 @@ Secret Ponchos
   💾 secretponchosd3d11.exe
 
 Secret World Legends
-  💾 secretworldlegends.exe
   💾 secretworldlegendsdx11.exe
+  💾 secretworldlegends.exe
 
 Secrets of Grindea
   💾 secrets of grindea.exe
@@ -29546,8 +29546,8 @@ Sid Meier's Civilization VII
     💾 civ7_win64_dx12_finalrelease.exe
 
 Sid Meier's Civilization: Beyond Earth
-  💾 civilizationbe_dx11.exe
   💾 civilizationbe_mantle.exe
+  💾 civilizationbe_dx11.exe
 
 Sid Meier's Civilization® IV Complete
   💾 civilization4.exe
@@ -29851,9 +29851,9 @@ Skul: The Hero Slayer
     💾 skul.exe
 
 Skull and Bones
-  📂 skull and bones
-    💾 skullandbones.exe
   📂 skull and bones (open beta)
+    💾 skullandbones.exe
+  📂 skull and bones
     💾 skullandbones.exe
 
 Skull Hotel
@@ -30109,14 +30109,14 @@ Smilemo
     💾 smilemo.exe
 
 SMITE
-  💾 smite.exe
   💾 smiteeac.exe
+  💾 smite.exe
 
 SMITE 2
-  📂 win64
-    💾 hemingway-win64-shipping.exe
   📂 windows
     💾 hemingway.exe
+  📂 win64
+    💾 hemingway-win64-shipping.exe
 
 Smithworks
   📂 smithworks
@@ -30183,9 +30183,9 @@ Sniper Elite 3
 Sniper Elite 4
   📂 bin
     💾 sniperelite4_dx11.exe
-  💾 sniperelite4.exe
   💾 sniperelite4_dx11.exe
   💾 sniperelite4_dx12.exe
+  💾 sniperelite4.exe
 
 Sniper Elite 5
   📂 launcher
@@ -30544,8 +30544,8 @@ Soulstone Survivors: Prologue
     💾 soulstone survivors.exe
 
 SoulWorker
-  💾 soulworker.exe
   💾 soulworker100.exe
+  💾 soulworker.exe
 
 Sound Slide
   📂 sound slide
@@ -30789,18 +30789,18 @@ Spellcasters Chronicles
   💾 spellcasterschronicles.exe
 
 Spellcraft
+  📂 spellcraft dev (staging)
+    💾 unitycrashhandler64.exe
+    💾 spellcraft.exe
   📂 run
     💾 tap.exe
     💾 tap.exe
     💾 tap.exe
-  📂 spellcraft dev (staging)
-    💾 spellcraft.exe
-    💾 unitycrashhandler64.exe
   📂 v0
     💾 spellcraft.exe
   💾 spellcraft-gamelab.exe
-  💾 spellcraft-live.exe
   💾 spellcraft-staging.exe
+  💾 spellcraft-live.exe
 
 SpellForce 2 - Anniversary Edition
   💾 spellforce2.exe
@@ -30964,9 +30964,9 @@ Splitgate
     💾 portalwars-win64-shipping.exe
 
 Splitgate 2
-  📂 splitgate 2
-    💾 launcher.exe
   📂 splitgate 2 playtest
+    💾 launcher.exe
+  📂 splitgate 2
     💾 launcher.exe
   📂 win64
     💾 portalwars2client-win64-shipping.exe
@@ -31238,30 +31238,30 @@ STAR WARS™ Episode I Racer
     💾 swep1rcr.exe
 
 STAR WARS™ Galactic Battlegrounds Saga
-  💾 battlegrounds.exe
   💾 battlegrounds_cc.exe
   💾 battlegrounds_x1.exe
   💾 battlegrounds_x2.exe
-  💾 swgbg.exe
+  💾 battlegrounds.exe
   💾 swgbwide_x1.exe
+  💾 swgbg.exe
 
 STAR WARS™ Jedi Knight II: Jedi Outcast™
-  💾 jk2mp.exe
   💾 jk2mvmp_x64.exe
   💾 jk2mvmp_x86.exe
+  💾 jk2mp.exe
   💾 jk2sp.exe
 
 STAR WARS™ Jedi Knight: Dark Forces II
-  💾 jedi.exe
   💾 jediknight.exe
+  💾 jedi.exe
   💾 jk.exe
 
 STAR WARS™ Jedi Knight: Jedi Academy™
   📂 gamedata
     💾 movieduels.x86.exe
+  💾 jediacademy.exe
   💾 jamp.exe
   💾 jasp.exe
-  💾 jediacademy.exe
 
 STAR WARS™ Jedi Knight: Mysteries of the Sith™
   📂 jedi knight mysteries of the sith
@@ -31340,9 +31340,9 @@ Starblast
     💾 starblast.exe
 
 Starbound
+  💾 starbound_opengl.exe
   💾 starbound.app
   💾 starbound.exe
-  💾 starbound_opengl.exe
 
 StarBreak
   📂 starbreak
@@ -31356,10 +31356,10 @@ StarCraft
   💾 starcraft.exe
 
 StarCraft II
+  💾 starcraft ii.exe
+  💾 sc2_x64.exe
   💾 sc2.app
   💾 sc2.exe
-  💾 sc2_x64.exe
-  💾 starcraft ii.exe
 
 Stardeus
   📂 stardeus
@@ -31442,9 +31442,9 @@ Stationeers
     💾 rocketstation.exe
 
 Staxel
-  💾 staxel.client.exe
-  💾 staxel.modmanager.exe
   💾 staxel.steamlauncher.exe
+  💾 staxel.modmanager.exe
+  💾 staxel.client.exe
 
 Stay Close
   📂 win64
@@ -31678,9 +31678,9 @@ Storm Chasers
     💾 storm chasers.exe
 
 Storm Lancers
+  💾 stormlancersdemosteam-win64-shipping.exe
   💾 stormheartsteam-win64-shipping.exe
   💾 stormlancersdemo.exe
-  💾 stormlancersdemosteam-win64-shipping.exe
 
 Storm Striker
   📂 win64
@@ -31700,8 +31700,8 @@ Stormgate
 
 Stormworks: Build and Rescue
   📂 stormworks
-    💾 stormworks.exe
     💾 stormworks64.exe
+    💾 stormworks.exe
 
 STORROR Parkour Pro
   📂 win64
@@ -31814,8 +31814,8 @@ Street Fighter 6 - Closed Beta
     💾 streetfighter6closedbeta.exe
 
 Street Fighter V
-  💾 streetfighterv.exe
   💾 streetfightervbeta-win64-shipping.exe
+  💾 streetfighterv.exe
 
 Street Fighter X Tekken
   📂 street fighter x tekken
@@ -31902,8 +31902,8 @@ Stronghold Crusader 2
 
 Stronghold Crusader Extreme HD
   📂 stronghold crusader extreme
-    💾 stronghold crusader.exe
     💾 stronghold_crusader_extreme.exe
+    💾 stronghold crusader.exe
 
 Stronghold Crusader HD
   💾 stronghold crusader.exe
@@ -32461,15 +32461,15 @@ SuperTux
     💾 supertux2.exe
 
 SUPERVIVE
+  📂 win64
+    💾 supervive-win64-shipping.exe
+    💾 loki.exe
   📂 loki
     💾 loki.exe
-  📂 win64
-    💾 loki.exe
-    💾 supervive-win64-shipping.exe
-  💾 loki-win64-shipping.exe
-  💾 loki.exe
   💾 supervive-win64-shipping.exe
+  💾 loki-win64-shipping.exe
   💾 supervive.exe
+  💾 loki.exe
 
 Supply Chain Idle
   📂 supply chain idle
@@ -32515,9 +32515,9 @@ SurfsUp
     💾 surfsup.exe
 
 Surgeon Simulator
-  📂 surgeon simulator
-    💾 ss2013.exe
   📂 surgeon simulator 2013
+    💾 ss2013.exe
+  📂 surgeon simulator
     💾 ss2013.exe
 
 Surgeon Simulator 2
@@ -32661,8 +32661,8 @@ SWAT 3: Tactical Game of the Year Edition
     💾 swat.exe
 
 SWAT 4
-  💾 swat4.exe
   💾 swat4x.exe
+  💾 swat4.exe
 
 SWAT Commander: Prologue
   📂 win64
@@ -32836,8 +32836,8 @@ Syrian Warfare
 System Shock 2
   📂 ss2
     💾 ss2.exe
-  💾 shock2.exe
   💾 system shock2.exe
+  💾 shock2.exe
 
 System Shock 2: 25th Anniversary Remaster
   📂 system shock 2 remastered
@@ -32848,8 +32848,8 @@ System Shock Demo
     💾 systemreshock-win64-shipping.exe
 
 System Shock: Enhanced Edition
-  💾 sshock.exe
   💾 system shock.exe
+  💾 sshock.exe
 
 Szachy dla debili
   📂 chess for idiots
@@ -33093,18 +33093,18 @@ Tank Team
     💾 tank team.exe
 
 Tanki Online
-  📂 backup
+  📂 tanki online — копия
     💾 tanki online.exe
-  📂 common
+  📂 tanki online5
+    💾 tanki onlinet.exe
     💾 tanki online.exe
   📂 tanki online
     💾 tanki online.exe
     💾 tankionline.exe
-  📂 tanki online — копия
+  📂 backup
     💾 tanki online.exe
-  📂 tanki online5
+  📂 common
     💾 tanki online.exe
-    💾 tanki onlinet.exe
   💾 gtanki online.exe
   💾 tanki online.exe
 
@@ -33209,10 +33209,10 @@ Tavern Master - Prologue
     💾 tavern master.exe
 
 Tavern Talk
-  📂 tavern talk
-    💾 tavern talk.exe
   📂 tavern talk demo
     💾 tavern talk demo.exe
+  📂 tavern talk
+    💾 tavern talk.exe
 
 Tavern Tycoon
   📂 tavern tycoon
@@ -33243,9 +33243,9 @@ TDP4:Team Battle
     💾 tdp4air.exe
 
 Team Fortress 2
+  💾 hl2tf.exe
   💾 >hl2.exe
   💾 >hl2_osx
-  💾 hl2tf.exe
 
 Team Fortress 2: Gold Rush
   📂 team fortress 2 gold rush
@@ -33375,8 +33375,8 @@ Terraforming Mars
 Terraria
   📂 terraria
     💾 terraria.exe
-  💾 terraria.app
   💾 terraria.bin.x86
+  💾 terraria.app
   💾 terraria.exe
 
 TerraScape
@@ -33580,8 +33580,8 @@ The Binding of Isaac: Rebirth
     💾 itempooleditor.exe
   📂 roomeditor
     💾 roomeditor.exe
-  💾 isaac-ng.exe
   💾 the binding of isaac rebirth.app
+  💾 isaac-ng.exe
 
 The Black Death
   📂 win64
@@ -33883,40 +33883,40 @@ The Elder Scrolls II: Daggerfall
     💾 dosbox.exe
 
 The Elder Scrolls III: Morrowind
+  📂 morrowind
+    💾 morrowind code patch.exe
+    💾 moinstaller.exe
+    💾 mgexegui.exe
   📂 mlox
     💾 mlox.exe
-  📂 morrowind
-    💾 mgexegui.exe
-    💾 moinstaller.exe
-    💾 morrowind code patch.exe
   💾 morrowind.exe
 
 The Elder Scrolls IV: Oblivion
   📂 oblivion
-    💾 oblivion.exe
     💾 obse_loader.exe
+    💾 oblivion.exe
   💾 oblivion.exe
 
 The Elder Scrolls IV: Oblivion Remastered
-  📂 win64
-    💾 oblivionremastered-win64-shipping.exe
   📂 wingdk
     💾 oblivionremastered-wingdk-shipping.exe
+  📂 win64
+    💾 oblivionremastered-win64-shipping.exe
 
 The Elder Scrolls Online: Tamriel Unlimited
-  📂 client
-    💾 eso.exe
-    💾 eso64.exe
   📂 launcher
     💾 bethesda.net_launcher.exe
+  📂 client
+    💾 eso64.exe
+    💾 eso.exe
   💾 bethesda.net_launcher.exe
 
 The Elder Scrolls V: Skyrim
   📂 skyrim special edition
     💾 skyrimselauncher.exe
   💾 skyrimlauncher.exe
-  💾 tesv.exe
   💾 tesv_original.exe
+  💾 tesv.exe
 
 The Elder Scrolls V: Skyrim Special Edition
   📂 skyrim special edition
@@ -34002,11 +34002,11 @@ The Final Station
     💾 thefinalstation.exe
 
 THE FINALS
-  📂 win64
-    💾 discovery.exe
   📂 wingdk
     💾 discovery-d.exe
     💾 discovery-e.exe
+  📂 win64
+    💾 discovery.exe
 
 The First Berserker: Khazan
   📂 win64
@@ -34115,8 +34115,8 @@ The Guild 3
   💾 guild3.exe
 
 The Guild Gold Edition
-  💾 europa1400gold.exe
   💾 europa1400gold_tl.exe
+  💾 europa1400gold.exe
 
 The Guild II
   💾 guildii.exe
@@ -34246,8 +34246,8 @@ The Iron Oath
 
 The Isle
   📂 win64
-    💾 theisle-win64-shipping.exe
     💾 theisleclient-win64-shipping.exe
+    💾 theisle-win64-shipping.exe
 
 The Jackbox Megapicker
   📂 the jackbox megapicker
@@ -34457,12 +34457,12 @@ The Legend of Heroes: Trails from Zero
     💾 zero.exe
 
 The Legend of Heroes: Trails in the Sky
-  💾 ed6_win.exe
   💾 ed6_win_dx9.exe
+  💾 ed6_win.exe
 
 The Legend of Heroes: Trails in the Sky SC
-  💾 ed6_win2.exe
   💾 ed6_win2_dx9.exe
+  💾 ed6_win2.exe
 
 The Legend of Heroes: Trails in the Sky the 3rd
   📂 trails in the sky the 3rd
@@ -34888,14 +34888,14 @@ The Secret Atelier
     💾 the secret atelier.exe
 
 The Secret of Monkey Island™ Special Edition
-  💾 mise.exe
   💾 misec.exe
+  💾 mise.exe
 
 The Secret World
-  💾 secretworldlegends.exe
   💾 secretworldlegendsdx11.exe
-  💾 thesecretworld.exe
+  💾 secretworldlegends.exe
   💾 thesecretworlddx11.exe
+  💾 thesecretworld.exe
 
 The Settlers 7: Paths to a Kingdom
   💾 settlers7r.exe
@@ -34962,14 +34962,14 @@ The Sims 2: Ultimate Collection
   💾 sims2ep9.exe
 
 The Sims 3
-  💾 ts3.exe
   💾 ts3w.exe
+  💾 ts3.exe
 
 The Sims 4
-  💾 the sims 4.app
-  💾 ts4.exe
   💾 ts4_dx9_x64.exe
+  💾 the sims 4.app
   💾 ts4_x64.exe
+  💾 ts4.exe
 
 The Sims™ Legacy Collection
   📂 the sims legacy collection
@@ -35685,13 +35685,13 @@ TMNT 2 - Battle Nexus
   💾 tmnt2.exe
 
 tModLoader
-  📂 6.0.0
-    💾 dotnet.exe
   📂 launchutils
     💾 busybox64.exe
   📂 tmodloader
-    💾 tmodloader.exe
     💾 tmodloader64bit.exe
+    💾 tmodloader.exe
+  📂 6.0.0
+    💾 dotnet.exe
 
 To Pixelia
   📂 to pixelia
@@ -35783,11 +35783,11 @@ Tom Clancy's Rainbow Six Siege - Test Server
 
 Tom Clancy's Rainbow Six Siege X
   📂 tom clancy's rainbow six siege
-    💾 rainbowsix.exe
     💾 rainbowsix_vulkan.exe
-  💾 rainbowsix.exe
-  💾 rainbowsix_be.exe
+    💾 rainbowsix.exe
   💾 rainbowsixgame.exe
+  💾 rainbowsix_be.exe
+  💾 rainbowsix.exe
 
 Tom Clancy's Rainbow Six Vegas
   💾 r6vegas_game.exe
@@ -35967,8 +35967,8 @@ Tormented Souls Demo
     💾 tormentedsoulsdemo.exe
 
 Tormentor❌Punisher
-  💾 tormentorxpunisher.exe
   💾 tormentorxpunishergit.exe
+  💾 tormentorxpunisher.exe
 
 ToS Gamepad Tester
   📂 tos gamepad tester
@@ -36085,79 +36085,79 @@ Touge Shakai
     💾 touge shakai.exe
 
 Touhou 10.5: Scarlet Weather Rhapsody
-  💾 th105.exe
   💾 th105e.exe
+  💾 th105.exe
 
 Touhou 10: Mountain of Faith
-  💾 th10.exe
   💾 th10e.exe
+  💾 th10.exe
 
 Touhou 11: Subterranean Animism
-  💾 th11.exe
   💾 th11e.exe
+  💾 th11.exe
 
 Touhou 12.3: Hisoutensoku
-  💾 th123.exe
   💾 th123e.exe
+  💾 th123.exe
 
 Touhou 12.5: Double Spoiler
-  💾 th125.exe
   💾 th125e.exe
+  💾 th125.exe
 
 Touhou 12.8: Great Fairy Wars
-  💾 th128.exe
   💾 th128e.exe
+  💾 th128.exe
 
 Touhou 12: Undefined Fantastic Object
-  💾 th12.exe
   💾 th12e.exe
+  💾 th12.exe
 
 Touhou 13.5 Hopeless Mascarade
-  💾 th135.exe
   💾 th135e.exe
+  💾 th135.exe
 
 Touhou 13: Ten Desires
-  💾 th13.exe
   💾 th13e.exe
+  💾 th13.exe
 
 Touhou 14.3: Impossible Spell Card
-  💾 th143.exe
   💾 th143e.exe
+  💾 th143.exe
 
 Touhou 14.5: Urban Legend in Limbo
-  💾 th145.exe
   💾 th145e.exe
+  💾 th145.exe
 
 Touhou 14: Double Dealing Character
-  💾 th14.exe
   💾 th14e.exe
+  💾 th14.exe
 
 Touhou 15.5: Antinomy of Common Flowers
   💾 th155.exe
 
 Touhou 15: Legacy of Lunatic Kingdom
-  💾 th15.exe
   💾 th15e.exe
+  💾 th15.exe
 
 Touhou 7.5: Immaterial and Missing Power
-  💾 th075.exe
   💾 th075e.exe
+  💾 th075.exe
 
 Touhou 7: Perfect Cherry Blossom
-  💾 th07.exe
   💾 th07e.exe
+  💾 th07.exe
 
 Touhou 8: Imperishable Night
-  💾 th08.exe
   💾 th08e.exe
+  💾 th08.exe
 
 Touhou 9.5: Shoot the Bullet
-  💾 th095.exe
   💾 th095e.exe
+  💾 th095.exe
 
 Touhou 9: Phantasmagoria Of Flower View
-  💾 th09.exe
   💾 th09e.exe
+  💾 th09.exe
 
 Touhou Artificial Dream in Arcadia
   📂 touhou artificial dream in arcadia
@@ -36550,10 +36550,10 @@ TREE
     💾 tree-win64-shipping.exe
 
 Tree of Savior (English Ver.)
-  📂 patch
-    💾 updater_downloader.exe
   📂 release
     💾 client_tos_x64.exe
+  📂 patch
+    💾 updater_downloader.exe
   💾 client_tos.exe
 
 Tree of Savior (Japanese Ver.)
@@ -36668,8 +36668,8 @@ Trimps
     💾 trimps.exe
 
 Trine 2: Complete Story
-  💾 trine2.app
   💾 trine2_32bit.exe
+  💾 trine2.app
 
 Trine 3: The Artifacts of Power
   💾 trine3_32bit.exe
@@ -36686,9 +36686,9 @@ Trine 5: A Clockwork Conspiracy
 Trine Enchanted Edition
   📂 trine
     💾 wmfdist11-windowsxp-x86-enu.exe
+  💾 trine1_32bit.exe
   💾 trine.app
   💾 trine.exe
-  💾 trine1_32bit.exe
 
 Trip In Another World
   📂 tiaw
@@ -36715,6 +36715,10 @@ Trombone Champ
 Trophy Fishing 2
   📂 trophy fishing 2
     💾 trophy fishing 2.exe
+
+Tropical Monster Girls
+  📂 tropical monster girls
+    💾 tropical.exe
 
 Tropico
   📂 tropico
@@ -37084,9 +37088,9 @@ Umurangi Generation
     💾 umurangi generation.exe
 
 UNBEATABLE [white label]
-  📂 unbeatable
-    💾 unbeatable [white label].exe
   📂 unbeatable [white label]
+    💾 unbeatable [white label].exe
+  📂 unbeatable
     💾 unbeatable [white label].exe
 
 Unbound: Worlds Apart Prologue
@@ -37417,8 +37421,8 @@ Untrusted
 Unturned
   📂 unturned
     💾 unturned.exe
-  💾 unturned.exe
   💾 unturned_be.exe
+  💾 unturned.exe
 
 Unworthy
   📂 unworthy
@@ -37587,11 +37591,11 @@ Vampire Hunters
     💾 vampire hunters.exe
 
 Vampire Survivors
-  📂 content
-    💾 vampiresurvivors.exe
   📂 vampire survivors
     💾 vampiresurvivors.exe
   📂 vampiresurvivors
+    💾 vampiresurvivors.exe
+  📂 content
     💾 vampiresurvivors.exe
 
 Vampire Therapist
@@ -38003,8 +38007,8 @@ VRCFaceTracking
 
 VRChat
   📂 vrchat
-    💾 launch.exe
     💾 start_protected_game.exe
+    💾 launch.exe
     💾 vrchat.exe
 
 VRMark
@@ -38200,9 +38204,9 @@ WARCANA
 Warcraft III
   📂 warcraft iii
     💾 frozen throne.exe
-  💾 war3.exe
   💾 warcraft iii.app
   💾 warcraft iii.exe
+  💾 war3.exe
   💾 wc3.exe
 
 Warface
@@ -38221,8 +38225,8 @@ Warfork
     💾 warfork_x64.exe
 
 Warframe
-  💾 warframe.exe
   💾 warframe.x64.exe
+  💾 warframe.exe
 
 Wargame: AirLand Battle
   📂 wargame airland battle
@@ -38261,8 +38265,8 @@ Warhammer 40,000: Darktide
 
 Warhammer 40,000: Dawn of War - Dark Crusade
   📂 dawn of war dark crusade
-    💾 darkcrusade.exe
     💾 graphicsconfig.exe
+    💾 darkcrusade.exe
 
 Warhammer 40,000: Dawn of War - Definitive Edition
   📂 dawn of war definitive edition
@@ -38275,19 +38279,19 @@ Warhammer 40,000: Dawn of War - Game of the Year Edition
 
 Warhammer 40,000: Dawn of War - Soulstorm
   📂 dawn of war soulstorm
-    💾 4gb_patch.exe
-    💾 dow mod manager 1.3.exe
-    💾 dow mod manager v1.4.exe
-    💾 dow mod manager v1.52.exe
+    💾 tyranid_mod_0.5b3_installer.exe
+    💾 dow mod manager v2.3.1.0.exe
+    💾 dow mod manager v2.3.2.2.exe
     💾 dow mod manager v2.1.3.exe
     💾 dow mod manager v2.1.5.exe
     💾 dow mod manager v2.1.6.exe
     💾 dow mod manager v2.1.9.exe
-    💾 dow mod manager v2.3.1.0.exe
-    💾 dow mod manager v2.3.2.2.exe
-    💾 graphicsconfig.exe
-    💾 tyranid_mod_0.5b3_installer.exe
+    💾 dow mod manager v1.52.exe
+    💾 dow mod manager v1.4.exe
+    💾 dow mod manager 1.3.exe
     💾 tyranidsuninstall.exe
+    💾 graphicsconfig.exe
+    💾 4gb_patch.exe
   📂 unification_bugfix
     💾 unification configurator 1.0.2.exe
     💾 unification_configurator_1.0.0.exe
@@ -38344,12 +38348,12 @@ Warhammer 40,000: Space Marine
   💾 spacemarine.exe
 
 Warhammer 40,000: Space Marine 2
-  📂 pc
-    💾 warhammer 40000 space marine 2 - retail.exe
-  📂 space marine 2
-    💾 start_protected_game.exe
   📂 warhammer 40,000 space marine 2 demo
     💾 start_protected_game.exe
+  📂 space marine 2
+    💾 start_protected_game.exe
+  📂 pc
+    💾 warhammer 40000 space marine 2 - retail.exe
   💾 warhammer 40000 space marine 2.exe
 
 Warhammer 40,000: Warpforge
@@ -38384,10 +38388,10 @@ Warhammer: End Times - Vermintide
   💾 vermintide.exe
 
 Warhammer: Vermintide 2
-  📂 binaries
-    💾 vermintide2.exe
   📂 binaries_dx12
     💾 vermintide2_dx12.exe
+  📂 binaries
+    💾 vermintide2.exe
 
 Warhaven
   📂 win64
@@ -38956,8 +38960,8 @@ Wildmender
     💾 wildmender_win64.exe
 
 WildStar
-  💾 wildstar.exe
   💾 wildstar64.exe
+  💾 wildstar.exe
 
 Will Glow the Wisp
   📂 will glow the wisp
@@ -39112,8 +39116,8 @@ Wizard with a Gun Demo
     💾 wizardwithagun.exe
 
 Wizard101
-  💾 wizard101.exe
   💾 wizardgraphicalclient.exe
+  💾 wizard101.exe
 
 Wizardry 8
   📂 wizardry8
@@ -39200,8 +39204,8 @@ Wonder Boy: The Dragon's Trap
     💾 wb.exe
 
 Wonder Wickets
-  💾 wonder wickets.exe
   💾 wonderwickets-release.exe
+  💾 wonder wickets.exe
 
 Wonderful Everyday Down the Rabbit-Hole
   📂 wonderful everyday down the rabbit-hole
@@ -39282,13 +39286,13 @@ World of Tennis: Roaring ’20s
     💾 worldoftennis.exe
 
 World of Warcraft
+  📂 _retail_
+    💾 wow-64.exe
+    💾 wow.exe
   📂 _beta_
     💾 wow-64.exe
     💾 wow.exe
   📂 _ptr_
-    💾 wow-64.exe
-    💾 wow.exe
-  📂 _retail_
     💾 wow-64.exe
     💾 wow.exe
   💾 world of warcraft.app
@@ -39322,8 +39326,8 @@ World War Legion
 
 World War Z: Aftermath
   📂 pc
-    💾 wwzretail.exe
     💾 wwzretailegs.exe
+    💾 wwzretail.exe
 
 World's Dawn
   📂 world's dawn
@@ -39585,8 +39589,8 @@ XCOM 2
 XCOM Enemy Unknown
   📂 win32
     💾 xcomgame.exe
-  💾 xcomew.exe
   💾 xcomgame.exe
+  💾 xcomew.exe
 
 XCOM: Chimera Squad
   📂 win64
@@ -39717,8 +39721,8 @@ Yet Another Zombie Survivors Demo
     💾 yet another zombie survivors.exe
 
 YGOPro
-  💾 ygopro.app
   💾 ygopro_vs.exe
+  💾 ygopro.app
 
 Yi Xian: The Cultivation Card Game
   📂 yixianpai
