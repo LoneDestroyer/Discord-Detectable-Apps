@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2025-12-17 01:01:30
-Total Applications: 10,385
-Total Executables: 11,147
+Last Updated: 2025-12-19 18:12:29
+Total Applications: 10,393
+Total Executables: 11,156
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -1118,6 +1118,10 @@ Alien Hominid Invasion Demo
   📂 alien hominid invasion demo
     💾 begame.exe
 
+Alien Rage - Unlimited
+  📂 win32
+    💾 shippingpc-afeargame.exe
+
 Alien Shooter
   📂 alien shooter
     💾 alienshooter.exe
@@ -1619,6 +1623,10 @@ Another Try 2
 Anthem™
   💾 anthem.exe
 
+Anthro Heat
+  📂 anthro heat
+    💾 anthroheat.exe
+
 Antichamber
   📂 win32
     💾 udk.exe
@@ -1657,6 +1665,10 @@ Aokana - Four Rhythms Across the Blue
 Aooni
   📂 aooni
     💾 aooni.exe
+
+Apartament 1406: Horror
+  📂 apartament 1406 horror
+    💾 apartament 1406.exe
 
 APB Reloaded
   💾 apblauncher.exe
@@ -12244,6 +12256,10 @@ Five Hearts Under One Roof
   📂 five hearts under one roof
     💾 milkgame.exe
 
+Five Hearts Under One Roof season2
+  📂 five hearts under one roof season2
+    💾 fhuor2.exe
+
 Five nights at Floppa
   📂 five nights at floppa
     💾 fivenightsatfloppa.exe
@@ -14755,6 +14771,10 @@ Half-Life: Alyx
   📂 win64
     💾 hlvr.exe
 
+Half-Life: Alyx - Final Hours
+  📂 final hours - half-life alyx
+    💾 alyxfinalhours.exe
+
 Half-Life: C.A.G.E.D.
   📂 half_life_caged
     💾 hl.exe
@@ -14949,6 +14969,10 @@ HARDCORE MECHA
 Hardspace: Shipbreaker
   📂 hardspace shipbreaker
     💾 shipbreaker.exe
+
+Harem of Lust: Battle Cards
+  📂 buildwindows_prod
+    💾 harem of lust.exe
 
 Harry Potter: Quidditch Champions
   📂 win64
@@ -24623,6 +24647,7 @@ Path of Exile
 Path of Exile 2
   📂 path of exile 2 taiwan
     💾 pathofexilesteam.exe
+    💾 pathofexile.exe
   📂 path of exile 2
     💾 pathofexile_x64steam.exe
     💾 pathofexilesteam.exe
@@ -26613,6 +26638,10 @@ Rappelz
 Rapture Rejects
   📂 rapture rejects
     💾 rr-windows-client.exe
+
+Rat Quest
+  📂 win64
+    💾 rat_quest-win64-shipping.exe
 
 Ratatan
   📂 ratatan
@@ -37086,6 +37115,10 @@ Umineko: Golden Fantasia
 Umurangi Generation
   📂 umurangigeneration
     💾 umurangi generation.exe
+
+Unavowed
+  📂 unavowed
+    💾 unavowed.exe
 
 UNBEATABLE [white label]
   📂 unbeatable [white label]
