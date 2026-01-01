@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2025-12-19 18:12:29
-Total Applications: 10,393
-Total Executables: 11,156
+Last Updated: 2026-01-01 23:33:47
+Total Applications: 10,423
+Total Executables: 11,188
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -2736,6 +2736,10 @@ Banana Hell
   📂 banana hell
     💾 banana_hell.exe
 
+Banana Hell: Mountain of Madness
+  📂 banana hell mountain of madness
+    💾 banana_hell2.exe
+
 Banana Shooter
   📂 banana shooter
     💾 banana shooter.exe
@@ -3436,6 +3440,10 @@ Biped
 Biphase
   📂 biphase
     💾 biphase.exe
+
+Bird
+  📂 bird
+    💾 bird.exe
 
 BirdGut
   📂 birdgut
@@ -4622,6 +4630,10 @@ Burger Shift: Team Rush: Prologue
   📂 win64
     💾 dds_with_exterior-win64-shipping.exe
 
+Burger Shop
+  📂 burger shop
+    💾 burgershop.exe
+
 Buried
   📂 buried
     💾 buried.exe
@@ -5471,6 +5483,10 @@ Caveblazers
 Caveblazers Together
   📂 caveblazers together
     💾 caveblazers.exe
+
+Caveman World: Mountains of Unga Boonga
+  📂 caveman world mountains of unga boonga
+    💾 caveman world.exe
 
 Cavern of Dreams
   📂 cavern of dreams
@@ -6722,6 +6738,10 @@ Corpse Party (2021)
   📂 corpse party rf
     💾 corpseparty.exe
 
+Corpse Party: Book of Shadows
+  📂 corpse party book of shadows
+    💾 bookofshadows.exe
+
 Corruption of Champions II
   📂 corruption of champions ii
     💾 coc ii.exe
@@ -7503,6 +7523,10 @@ Dark Deity 2
 Dark Devotion
   📂 dark devotion
     💾 darkdevotion.exe
+
+Dark Echo
+  📂 dark echo
+    💾 darkecho.exe
 
 Dark Elf
   📂 dark elf
@@ -18105,6 +18129,10 @@ King Arthur: Legends Rise
   📂 win64
     💾 kgame-win64-shipping.exe
 
+King Arthur: Legion IX
+  📂 king arthur legion ix
+    💾 ka_lix.exe
+
 King Exit
   📂 king exit
     💾 game.exe
@@ -18938,6 +18966,10 @@ Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored
 Leisure Suit Larry - Wet Dreams Don't Dry
   📂 leisure suit larry - wet dreams don't dry
     💾 larry.exe
+
+Leisure Suit Larry - Wet Dreams Dry Twice
+  📂 leisure suit larry - wet dreams dry twice
+    💾 leisure suit larry - wet dreams dry twice.exe
 
 Leisure Suit Larry 1 - In the Land of the Lounge Lizards
   📂 scummvm
@@ -20197,6 +20229,14 @@ MapleStory
 
 MapleStory 2
   💾 maplestory2.exe
+
+MapleStory N
+  📂 maplestoryn
+    💾 maplestoryn.exe
+
+MapleStory Worlds
+  📂 maplestory worlds
+    💾 msw.exe
 
 Marble Combat
   📂 win64
@@ -22311,6 +22351,10 @@ My Time at Sandrock Demo
   📂 my time at sandrock demo
     💾 sandrock.exe
 
+My Winter Car
+  📂 my winter car
+    💾 mywintercar.exe
+
 Mycopunk
   📂 mycopunk
     💾 mycopunk.exe
@@ -22326,6 +22370,10 @@ myPOPGOES
 Myrmidon
   📂 win64
     💾 myrmidonproto-win64-shipping.exe
+
+MySims™
+  📂 mysims
+    💾 mysims.exe
 
 Myst
   📂 win64
@@ -23406,6 +23454,10 @@ O2Jam
   📂 o2jam
     💾 o2jam.exe
 
+Oasis Driver for Windows Mixed Reality
+  📂 unlock
+    💾 unlock_wmr.exe
+
 Oasis VR
   📂 oasis
     💾 oasis.exe
@@ -23928,6 +23980,10 @@ Operation: Harsh Doorstop
   📂 win64
     💾 harshdoorstop-win64-shipping.exe
 
+Operation: Outbreak
+  📂 win64
+    💾 mesharraycourse-win64-shipping.exe
+
 Operation: Tango - Demo
   📂 operation tango - demo
     💾 operation tango.exe
@@ -24216,6 +24272,8 @@ Overcooked
   💾 overcooked.exe
 
 Overcooked! 2
+  📂 overcooked! 2
+    💾 overcooked2.exe
   💾 overcooked2.exe
 
 Overcooked! All You Can Eat
@@ -24605,6 +24663,10 @@ Passed Out: Prologue
 Passing Pineview Forest
   📂 .autorun
     💾 autorun.exe
+
+Passion Industry
+  📂 passion industry
+    💾 passionindustry.exe
 
 Passpartout 2: The Lost Artist
   📂 passpartout 2 the lost artist
@@ -26421,6 +26483,8 @@ Quilts and Cats of Calico
     💾 quilts_and_cats_of_calico.exe
 
 Quiplash
+  📂 quiplash
+    💾 quiplash.exe
   💾 quiplash.exe
 
 Quiplash 2 InterLASHional
@@ -29041,6 +29105,10 @@ SEX with HITLER
   📂 build
     💾 sexwithhitler.exe
 
+SEX with HITLER 2
+  📂 sex with hitler 2
+    💾 sexwithhitlerfutanari.exe
+
 Sex with Stalin
   📂 win64
     💾 sexwithstalin-win64-shipping.exe
@@ -29539,6 +29607,10 @@ Shrine II
 
 Shroud of the Avatar
   💾 shroud of the avatar.exe
+
+Shut Up and Dance: Special Edition
+  📂 shut up and dance special edition
+    💾 shutupanddancespecial.exe
 
 shutterbuds
   📂 win64
@@ -31110,6 +31182,10 @@ Squishy the Suicidal Pig
   📂 bin
     💾 squishy.exe
 
+SRPG Studio
+  📂 srpg studio
+    💾 srpgstudio.exe
+
 Stacklands
   📂 stacklands
     💾 stacklands.exe
@@ -31315,6 +31391,10 @@ STAR WARS™ Republic Commando™
 STAR WARS™ Starfighter™
   📂 star wars starfighter
     💾 starfighter.exe
+
+STAR WARS™ X-Wing vs TIE Fighter: Balance of Power Campaigns™
+  📂 star wars x-wing vs tie fighter
+    💾 xwingtie.exe
 
 STAR WARS™: Bounty Hunter™
   📂 star wars bounty hunter
@@ -31660,6 +31740,10 @@ Stolen Realm
 Stone Simulator
   📂 win64
     💾 stonesimulator-win64-shipping.exe
+
+Stone Story RPG
+  📂 stone story rpg
+    💾 stone story.exe
 
 Stonehearth
   💾 stonehearth.exe
@@ -33544,6 +33628,10 @@ The Backrooms Deluxe
   📂 win64
     💾 thebackroomsdeluxe-win64-shipping.exe
 
+The Backrooms Deluxe 2
+  📂 win64
+    💾 deluxe2-win64-shipping.exe
+
 The Backrooms Game FREE Edition
   📂 the backrooms game
     💾 the backrooms game.exe
@@ -33851,6 +33939,10 @@ The Day Before
 
 The Deed
   📂 the deed
+    💾 game.exe
+
+The Deed: Dynasty
+  📂 the deed dynasty
     💾 game.exe
 
 The Defender: Farm and Castle
@@ -34809,6 +34901,10 @@ The Purge Dilemma
   📂 win64
     💾 the_purge_dilemma-win64-shipping.exe
 
+The Purring Quest
+  📂 the purring quest
+    💾 thepurringquest.exe
+
 The Quarry
   📂 win64
     💾 thequarry-win64-shipping.exe
@@ -34911,6 +35007,10 @@ The Sapling
 The Scourge | Tai Ương
   📂 the-scourge
     💾 thescourge.exe
+
+The Search
+  📂 the search
+    💾 thesearch.exe
 
 The Secret Atelier
   📂 the secret atelier
@@ -35320,6 +35420,14 @@ The Wizards
 
 The Wolf Among Us
   💾 thewolfamongus.exe
+
+The Wonderful 101: Remastered
+  📂 exe
+    💾 thewonderful101.exe
+
+The You Quiz - Friend's Pass
+  📂 the you quiz demo
+    💾 theyouquiz.exe
 
 Thea 2: The Shattering
   📂 thea 2 the shattering
@@ -36630,6 +36738,9 @@ Trials Rising
   📂 datapack
     💾 trialsrising.exe
 
+Triangle
+  💾 starfront.exe
+
 TRIANGLE STRATEGY
   📂 win64
     💾 triangle_strategy-win64-shipping.exe
@@ -36752,6 +36863,10 @@ Tropical Monster Girls
 Tropico
   📂 tropico
     💾 tropico.exe
+
+Tropico 2: Pirate Cove
+  📂 tropico 2
+    💾 tropico2.exe
 
 Tropico 3
   💾 tropico3.exe
@@ -37189,6 +37304,10 @@ UNDER the SAND
 Under The Waves
   📂 win64
     💾 underthewaves-win64-shipping.exe
+
+Undercroft warriors
+  📂 undercroft warriors
+    💾 undercroft warriors.exe
 
 UNDERDOGS
   📂 underdogs
@@ -40795,6 +40914,10 @@ Zwift
 日本事故物件監視協会 -Japan Stigmatized Property-
   📂 steam
     💾 jsp.exe
+
+日本事故物件監視協会2 -Japan Stigmatized Property-
+  📂 steam
+    💾 jsp2.exe
 
 星の翼
   📂 starwings
