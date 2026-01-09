@@ -1,8 +1,8 @@
 Discord-Detectable-Apps
 ============================================================
-Last Updated: 2026-01-01 23:33:47
-Total Applications: 10,423
-Total Executables: 11,188
+Last Updated: 2026-01-09 18:56:56
+Total Applications: 10,440
+Total Executables: 11,207
 
 This list contains executable information for applications that Discord can detect.
 Use Ctrl+F (Cmd+F on Mac) to search for specific applications or games.
@@ -1877,6 +1877,10 @@ Arise: A Simple Story
   📂 win64
     💾 arise-win64-shipping.exe
 
+Aristoputas
+  📂 aristocunts
+    💾 aristocunts.exe
+
 Arizona Sunshine
   💾 arizonasunshine.exe
 
@@ -3383,6 +3387,10 @@ Biker Garage: Mechanic Simulator
 Billie Bust Up Demo
   📂 win64
     💾 billiebustup-win64-shipping.exe
+
+Billie's Wheelie
+  📂 billie's wheelie
+    💾 billie wheelie.exe
 
 Binary Domain
   📂 binary domain
@@ -5143,6 +5151,10 @@ Caribbean Legend
   📂 caribbean crashers
     💾 cc.exe
 
+Carmageddon Max Pack
+  📂 dosbox
+    💾 dosbox.exe
+
 Carmageddon: Max Damage
   📂 bin
     💾 carmageddon_max_damage.exe
@@ -5683,6 +5695,10 @@ Chicory: A Colorful Tale
 
 Child of Light
   💾 childoflight.exe
+
+Children of a Dead Earth
+  📂 children of a dead earth
+    💾 cde.exe
 
 Children of Morta
   📂 childrenofmorta
@@ -8308,6 +8324,10 @@ Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
   📂 win64
     💾 apk2-win64-shipping.exe
 
+Demon Turf
+  📂 demon turf
+    💾 demon turf.exe
+
 DemonCrawl
   📂 demoncrawl
     💾 demoncrawl.exe
@@ -9445,6 +9465,10 @@ Dragon's Dogma Online
 
 Dragon's Dogma: Dark Arisen
   💾 ddda.exe
+
+Dragon's Lair
+  📂 dragon's lair
+    💾 dragonslair.exe
 
 Dragonfield Alpha
   📂 dragonfield
@@ -10636,6 +10660,10 @@ Enigma do Medo
   📂 enigma of fear
     💾 enigma.exe
 
+Enigmatis 2: The Mists of Ravenwood
+  📂 enigmatis the mists of ravenwood
+    💾 enigmatis_themistsofravenwood.exe
+
 Enigmatis: The Ghosts of Maple Creek
   📂 enigmatis the ghosts of maple creek
     💾 enigmatis_theghostsofmaplecreek.exe
@@ -11683,6 +11711,10 @@ Fast Food Simulator: Prologue
 FATAL FRAME / PROJECT ZERO: Maiden of Black Water
   📂 fatal frame mobw
     💾 fatal_frame_mobw.exe
+
+FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse
+  📂 fatal frame mol
+    💾 fatal_frame_mol.exe
 
 FATAL FURY: City of the Wolves
   📂 win64
@@ -16411,6 +16443,10 @@ Hypnospace Outlaw
   📂 hypnospace outlaw
     💾 hypnos.exe
 
+Hytale
+  💾 hytale.app
+  💾 hytale.exe
+
 I Am Alive
   💾 iamalive_game.exe
 
@@ -16476,6 +16512,10 @@ I Expect You To Die 3
 I got a cat maid！
   📂 i got a cat maid
     💾 i got a cat maid.exe
+
+I got a millenary cat
+  📂 i got a millenary cat
+    💾 i got a millenary cat.exe
 
 I hate this game
   📂 i hate this game
@@ -23854,12 +23894,15 @@ OneShot: World Machine Edition
   📂 oneshot world machine edition
     💾 oneshotmg.exe
 
-ONI : Road to be the Mightiest Oni
+Oni
   📂 oni
     💾 oni.exe
   📂 ae
     💾 oni.exe
-  💾 oni.exe
+
+ONI : Road to be the Mightiest Oni
+  📂 oni-roadtobethemightiestoni
+    💾 oni.exe
 
 Onigiri
   📂 onigiri
@@ -26607,6 +26650,8 @@ Ragnarok: The Lost Memories
 RAID: Shadow Legends
   📂 build
     💾 raid.exe
+  💾 raid.app
+  💾 raid.exe
 
 RAID: World War II
   📂 raid world war ii
@@ -29097,6 +29142,10 @@ Sex of Thrones
   📂 sex of thrones
     💾 sex of thrones.exe
 
+Sex Shop Simulator: X-RAY DESIRE
+  📂 win64
+    💾 shopsim-win64-shipping.exe
+
 Sex Simulator
   📂 sex simulator
     💾 sex simulator.exe
@@ -31064,7 +31113,7 @@ Splitgate
   📂 win64
     💾 portalwars-win64-shipping.exe
 
-Splitgate 2
+SPLITGATE Arena Reloaded
   📂 splitgate 2 playtest
     💾 launcher.exe
   📂 splitgate 2
@@ -32558,6 +32607,10 @@ Supernormal
   📂 win64
     💾 supernormal-win64-shipping.exe
 
+SuperPantsu Tentikun
+  📂 superpantsu tentikun
+    💾 tentikun.exe
+
 SuperPower 2
   💾 joshua.exe
 
@@ -33765,6 +33818,10 @@ The Bunny Graveyard
 The Bureau: XCOM Declassified
   💾 thebureau.exe
 
+The Burton Equation
+  📂 the burton equation
+    💾 hl2.exe
+
 The Bus
   📂 win64
     💾 thebus.exe
@@ -33932,6 +33989,10 @@ The Darkness II
 The Darkside Detective
   📂 the darkside detective
     💾 thedarksidedetective.exe
+
+The Darkside Detective: A Fumble in the Dark
+  📂 the darkside detective season 2
+    💾 the darkside detective 2.exe
 
 The Day Before
   📂 win64
@@ -35055,6 +35116,10 @@ The Seven Realms: High Lathión
 The Seven Realms: Terran
   📂 the seven realms - realm 1
     💾 thesevenrealms.exe
+
+The Shapeshifting Detective
+  📂 the shapeshifting detective
+    💾 shapeshiftingdetective.exe
 
 The Ship
   📂 the ship
@@ -40639,6 +40704,10 @@ Zwift
 ドラゴンクエストI＆II
   📂 win64
     💾 dqiandiihd2dremake.exe
+
+ドラゴンクエストVII Reimagined  旅のはじまり先行プレイ版
+  📂 win64
+    💾 dq7r_demo-win64-shipping.exe
 
 ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅
   📂 dragon quest monsters 3
